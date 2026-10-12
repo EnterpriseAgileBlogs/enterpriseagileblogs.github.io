@@ -25,13 +25,17 @@ He has been blogging about his field since around 2010. His focus areas, which y
 * Agile governance, Lean Portfolio Management and agile leadership
 * Moving from projects to agile ways of working
 
-## Significant achievements
+## Work experience at
 
-Brian has experience at many large organizations, such as KPN, KLM, Transavia, Aegon, ING, the Dutch Tax Administration, the Chamber of Commerce (KvK) and MN Pension Services. A selection of his results:
-
-* Implementing the Scaled Agile Framework by (among other things) reorganizing an R&D department of 100 people from functional to domain-oriented departments.
-* The definition and establishment of a software development and maintenance factory based on the Rational Unified Process for a software division of 800 employees.
-* Implementing the Essential Unified Process for the IT department of 400 employees of a big telco, showing large cost savings and quality improvements.
+* KPN
+* KLM
+* Transavia
+* Aegon
+* ING
+* Dutch Tax Administration
+* Chamber of Commerce (KvK)
+* MN Pension Services
+* Dutch National Police
 
 ## Certifications
 

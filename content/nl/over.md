@@ -26,13 +26,17 @@ Sinds ongeveer 2010 schrijft hij blogs over zijn vak. Zijn aandachtsgebieden, di
 * Agile besturing, Lean Portfolio Management en agile leiderschap
 * Van projecten naar agile werken
 
-## Belangrijkste resultaten
+## Werkervaring bij
 
-Brian heeft ervaring bij veel grote organisaties, zoals KPN, KLM, Transavia, Aegon, ING, de Belastingdienst, de KvK en MN Pensioenservices. Een greep uit zijn resultaten:
-
-* Het invoeren van het Scaled Agile Framework door (onder andere) een R&D-afdeling van 100 mensen te reorganiseren van functionele naar domeingeoriënteerde afdelingen.
-* Het definiëren en opzetten van een softwareontwikkel- en onderhoudsstraat op basis van het Rational Unified Process voor een softwaredivisie van 800 medewerkers.
-* Het invoeren van het Essential Unified Process voor de IT-afdeling van 400 medewerkers van een grote telecomaanbieder, met aantoonbaar grote kostenbesparingen en kwaliteitsverbeteringen.
+* KPN
+* KLM
+* Transavia
+* Aegon
+* ING
+* Belastingdienst
+* Kamer van Koophandel (KvK)
+* MN Pensioenservices
+* Nationale Politie
 
 ## Certificeringen
 
