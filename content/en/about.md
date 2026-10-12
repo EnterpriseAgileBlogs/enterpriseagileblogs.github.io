@@ -10,13 +10,13 @@ date: 2009-02-20
 
 **Brian Teunissen** is an enterprise agility consultant, trainer and coach. In his own words: *he makes digitalisation a success by fostering agility* across the whole organization, not just in the IT teams.
 
-Brian is an all round pragmatic and experienced consultant who has lived all the facets of IT development and maintenance, and has specialized in (agile) process improvement since 1999. He likes to work from a specific customer need with the vision, mission and strategy of his customer in mind. He likes to give realistic advice, in which the business owner has to be fully involved, and has to stay fully involved.
+Brian is an all round pragmatic and experienced consultant who has lived all the facets of IT development and maintenance. He has been an expert in (agile) process improvement since 1999. He likes to work from a specific customer need with the vision, mission and strategy of his customer in mind. He likes to give realistic advice, in which the business owner has to be fully involved, and has to stay fully involved.
 
 ## What he does
 
-Since 2017 Brian has worked as an independent Agile Enterprise Consultant and change consultant "for an agile organization". His most recent work is at the Dutch National Police (Politie Nederland), where, among other things, he helped implement Lean Portfolio Management and increase the maturity of working agile in the IT organization.
+Brian worked as an independent consultant in two periods: from 2008 through 2011 and from 2017 through 2021. In that second period he worked, among other things, as Agile Enterprise Consultant and change consultant "for an agile organization". At the Dutch National Police (Politie Nederland) he helped, among other things, to implement Lean Portfolio Management and increase the maturity of working agile in the IT organization.
 
-His focus areas, which you will also recognise in his blogs:
+He has been blogging about his field since around 2010. His focus areas, which you will also recognise in those blogs:
 
 * Scaling agile and enterprise agility (SAFe, Nexus, LeSS and beyond)
 * Organization structures: from functional silos to value streams and product orientation
