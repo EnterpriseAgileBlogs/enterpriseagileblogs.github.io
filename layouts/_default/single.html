@@ -5,6 +5,7 @@
   <h1>{{ .Title }}</h1>
   <div class="tools">{{ range .Translations }}<a class="pill" href="{{ .RelPermalink }}" hreflang="{{ .Language.Lang }}">{{ i18n "otherlang" }}</a>{{ end }}<button class="pill copy" data-copy="{{ .Permalink }}" data-title="{{ .Title }}" data-done="{{ i18n "copied" }} ✓">🔗 {{ i18n "copylink" }}</button></div>
  </header>
+ {{ with .Params.featured_image }}{{ $stem := replaceRE `\.[A-Za-z0-9]+$` "" . }}{{ if not (in $.Content $stem) }}<figure class="phero"><img src="{{ . }}" alt="{{ $.Title }}"></figure>{{ end }}{{ end }}
  <div class="content">{{ .Content }}</div>
  {{ if .Params.translated }}<p class="tnote">{{ i18n "translatedNote" }}{{ range .Translations }} · <a href="{{ .RelPermalink }}" hreflang="{{ .Language.Lang }}">{{ if eq $.Site.Language.Lang "nl" }}origineel{{ else }}original{{ end }}</a>{{ end }}</p>{{ end }}
  <footer class="pterms">{{ with .GetTerms "categories" }}<p class="tags"><strong>{{ i18n "categories" }}:</strong> {{ range . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}</p>{{ end }}{{ with .GetTerms "tags" }}<p class="tags"><strong>{{ i18n "tags" }}:</strong> {{ range . }}<a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>{{ end }}</p>{{ end }}</footer>

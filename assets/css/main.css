@@ -93,3 +93,4 @@ img{max-width:100%;height:auto}
  .hero:before{display:none}.herotext{padding-bottom:26px}
  .hero-img{display:block;width:100%;height:300px;object-fit:cover;object-position:52% 30%}
 }
+.phero{margin:8px 0 24px;text-align:center}.phero img{max-height:420px;width:auto;max-width:100%}
