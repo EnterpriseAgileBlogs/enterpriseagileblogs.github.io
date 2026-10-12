@@ -11,6 +11,8 @@ featured_image: "/images/blog/Structureshift4.png"
 
 ![Structureshift4.png](/images/blog/Structureshift4.png)
 
+![12345-1.jpg](/images/blog/12345-1.jpg)
+
 **Agile maturity step 4: DevOps within IT**  
 **Introduction**  
 In my blog about Agile maturity step 3: ‘Working in physical product teams, possibly supplemented by virtual Ops‘ I explained that it works more efficiently if you reorganize the IT to specific business domains or business products. Such a reorganization supports utilization and implementation of the Scaled Agile Framework optimally, and increase of productivity of 50 % is easily achievable, when implementation is done adequately.
@@ -39,7 +41,7 @@ In fact, we are talking about a total tilt from a complex organization with simp
 
 **Agile maturity step 4: DevOps within IT**
 
-![step 4](/images/blog/step-4.jpg)
+![step 4](/images/blog/Stap-4.png)
   
 Figure 2 . The IT domain consists of departments in which fixed DevOps teams are responsible for development, maintenance and operation of (sub) business products.
 
@@ -53,7 +55,7 @@ Figure 4 . Example operations department of a large company.
 
 Operations departments in some cases are mirrored to the development departments, but can also be organized completely different. The above example of an operations department of a large company indicates how many sub-departments can exist, each with their own specialty and coordination complexity. And in particular this coordination complexity will cause viscosity within an organization, and will stretch lead times for deployment. Coordination requires a lot of indirect capacity, which could be used to fill in the gaps (after re-structuring of the organization, re-training, re-acquisition and re-positioning of personnel) for direct development capacity when creating fixed teams.
 
-![indirect to direct](/images/blog/indirect-to-direct.jpg)
+![indirect to direct](/images/blog/DirectIndirect.png)
   
 But this brings many challenges. You can imagine that if you want to allocate a specialized department of 5 people to 30 fixed product teams, this is difficult.  Also products will often use many more platforms than just one. How will you deal with the formation of DevOps teams? Often there is an acquisition stop for the recruitment of new staff. And you can not slice up individual specialists, who are already hard to find for some platforms.
 

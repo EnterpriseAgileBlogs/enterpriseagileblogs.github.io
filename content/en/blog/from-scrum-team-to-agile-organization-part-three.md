@@ -11,6 +11,8 @@ featured_image: "/images/blog/Structureshift3.png"
 
 ![Structureshift3.png](/images/blog/Structureshift3.png)
 
+![12345-1.jpg](/images/blog/12345-1.jpg)
+
 **Agile maturity step 3: Working in physical product teams , possibly supplemented by virtual Ops**
 
 **Introduction**  
@@ -35,7 +37,7 @@ In maturity step 3 we move towards ‘Deliver Value’. This results in an ‘Or
 Because the teams in the previous step have been working on their skills in virtual product team formation, it is now time to harvest the benefits from that. With the accumulated skills (see blog part two), and only having to report to one manager, a fixed team can be predictable and loose the fire fighting culture. Eliminating technical debt and improve automation through continuous process improvement will result in a faster time to market (increase productivity) and a better quality product. This results in the delivery of more (business) value to the organization.  
 So, transform the virtual teams to reside in domain or product oriented departments, having only one HR responsible manager with focus on innovating and maintaining a certain business product. These departments will be responsible for a predictable delivery, along with the quality of the product.
 
-![Step 3](/images/blog/step-3.jpg)
+![Step 3](/images/blog/Stap-3.png)
 
 Figure 2: Agile maturity step 3: Working in physical product teams , possibly supplemented by virtual Ops
 
@@ -43,7 +45,7 @@ A model that is supported very well by fixed product teams, organized in domain 
 
 But whether or not you support SAFe as a reference model for scaling agile, or you support the more Scrum of Scrum alike models from Graig Larman and Bas Vodde (<http://www.crosstalkonline.org/storage/issue-archives/2013/201305/201305-Larman.pdf>), they both are mostly supported by fixed product teams, organized into (sub) domain or (sub) product (or product area, as Larman and Vodde define it) departments.
 
-![TheBigPictureSAFe](/images/blog/thebigpicturesafe.jpg)
+![TheBigPictureSAFe](/images/blog/SAFe-3.png)
   
 Figure 3: The ‘Scaled Agile Framework ®’ or ‘SAFe™’ by Dean Leffingwell
 

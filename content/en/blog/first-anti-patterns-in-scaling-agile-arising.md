@@ -60,15 +60,15 @@ Because top management almost never realizes these consequences from day one, no
 As long as it remained in IT, doing projects (in the old governance model) with Scrum, was not a problem. But when scaling and flipping the organization from functional to business oriented silos, decisions on board level are needed to guide the organization in the right direction. With the evolutionary approach, you will see a hybrid situation arise. I always advocate that you should start with one domain as a pilot, and then expand. That is implicitly creating a hybrid situation.  
 By hybrid I mean an organization that is partially already organized in fixed business silos with the new (SAFe) governance (whether virtual (independent of existing organizational structure) or literally (organizational structure adapted to business silo’s)), and partially still domains working in the old paradigm: temporary programs and projects in the classical project matrix governance.
 
-![Programs Projects](/images/blog/programs-projects.jpg)
+![Programs Projects](/images/blog/progsproj.png)
 
 Figure 1: temporary programs and temporary projects independent from org chart.
 
-![Hybrid](/images/blog/hybrid.jpg)
+![Hybrid](/images/blog/Progsprojval.png)
 
 Figure 2: Fixed release trains (Business oriented silo’s and generic silo’s) and temporary programs and projects exist simultaneously in hybrid situation, both independent from org chart.
 
-![Value stream](/images/blog/value-stream.jpg)
+![Value stream](/images/blog/val.png)
 
 Figure 3: Ideal situation where the org chart equals the value streams and no temporary organizations any more.
 

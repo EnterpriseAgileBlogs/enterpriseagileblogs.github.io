@@ -11,6 +11,8 @@ featured_image: "/images/blog/Structureshift2.png"
 
 ![Structureshift2.png](/images/blog/Structureshift2.png)
 
+![12345.jpg](/images/blog/12345.jpg)
+
 **Agile Maturity step 2: Working in virtual product teams, assembled from functional oriented departments**
 
 In my blog about ‘Agile maturity step 1: Working iteratively within (temporary) projects in a matrix organization’ I explained the advantages and disadvantages of the limited application of working iteratively within projects.
@@ -47,7 +49,7 @@ Figure 1 : The fluency model by James Shore and Diana Larsen.
 
 **Agile maturity step 2 :Working in virtual product teams, assembled from functional oriented departments**
 
-**![Step 2](/images/blog/step-2.jpg)
+**![Step 2](/images/blog/Stap-2.png)
 
 Figure 2 : Product teams assembled from functional departments
 
@@ -59,7 +61,7 @@ Still, it’s worth the trouble to try to create fixed teams. Working in fixed p
 
 **The limitation of the maturity steps discussed**
 
-![seven-s-model](/images/blog/seven-s-model.jpg)
+![seven-s-model](/images/blog/7s.png)
 
 Figure 3 : The 7S Model ( Peters and Waterman, 1979)
 

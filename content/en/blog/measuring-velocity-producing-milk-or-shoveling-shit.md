@@ -17,14 +17,14 @@ No, I’m not from the countryside, but my forefathers are, and I have farmers i
 **Technical debt, poor quality and firefighting**  
 Trend that I see is that in almost all businesses an enormous technical debt is built up. Up until the fact that the maximal boundary is reached or even crossed (almost all budget is going to maintenance, almost no budget left for innovation, while the business is screaming for faster Time to market!!!!). For me, this build up is largely caused by the project matrix organizations. Lack of ownership of applications, and teams under pressure from project managers with whips, cause that technical debt is steadily increasing in IT landscapes across the board (no project manager cleans up the mess from his predecessor (s)).  
 The result is that Scrum teams (preferably fixed product teams with ownership of an application or sub-domain) are faced with solving production problems and tediously extensive impact analysis. This prohibits these teams to spend time on innovation (adding new features or modifying existing features (changes)). If a team is not able to reduce technical debt, or work on process improvement, the trend will be that the productivity (adding business value in terms of new features or modifying existing features) will decrease. This is shown in the following figure: 
-![Trend without](/images/blog/trend-without1.jpg)
+![Trend without](/images/blog/Trend-zonder.png)
 
 These teams will therefore produce less milk, and will have to shovel more and more shit every sprint. Result can be management teams deciding that Agile Scrum is ‘Not working’.
 
 **Reducing technical debt and work on continuous process improvement will increase productivity in the long term**  
 If you allow the shit to accumulate, it will be at the expense of milk production. Coaching teams to also reduce technical debt and work on process improvement in each sprint is essential. The coaching extends to Product Management, which has to be aware of the fact how much technical debt is in their product, and what it costs them NOT to reduce it. For this they need a proper insight in the extent of the technical debt. With the SQALE methodology on top of the open source tool SONAR each team will be able to periodically inspect the remediation time in man-days remaining in the application by the push of a button.
 
-![SQALE](/images/blog/sqale.jpg)
+![SQALE](/images/blog/SCALE-dashboard.png)
  Example [SQALE](http://www.sqale.org/ "SQALE") dashboard with histogram divided into repair time (remediation cost) in man-days on:  
 • portability  
 • Maintainability  
@@ -35,7 +35,7 @@ If you allow the shit to accumulate, it will be at the expense of milk productio
 • Testability  
 If Product management and team reach the state in which they consider planning reduction of technical debt and process improvement activities every sprint, then a temporary dip in productivity is to be expected. But in the long term this will be a ground for structural productivity increase. The first Toyota principle says: ‘Long-term concern over short term concern’. That also goes for creating a profound basis for increase of your productivity.  
 This results in the following picture:
-![Temporarily decrease](/images/blog/temporarily-decrease.jpg)
+![Temporarily decrease](/images/blog/Trend-met.png)
 
 You see, not only disposing of dirt, but also looking at the diet of the cows, the health of the cows, the speed in which the milking machine can be connected and disconnected, the way the barn is arranged, how effective the dirt is cleaned up, will lead to the eventual increase in milk production. All milk producing farmers will agree to this. This way of measuring productivity thus contributes to a potential to increase productivity on the one hand, and provides insight into the real business value added by the teams on the other!
 
@@ -47,7 +47,7 @@ Basically, for me, processing items from 4 backlogs will lead to a good sprint b
 • The tester in the team owns and maintains the backlog of open production problems (please note, the backlog of open defects resulting from realization of actual User Stories is also there, but resolving those defects in the sprints will indeed count for productivity, as where resolving defects form versions already in production will not) .  
 This results in the following visualization:
 
-![Different backlogs](/images/blog/different-backlogs.jpg)
+![Different backlogs](/images/blog/backlogs.png)
 
 Keeping track of the extent to which teams perform these type of activities per sprint can be very useful for determining correlation between the degree of reduction of technical debt and performing process improvement activities, and the increase or decrease in productivity. This is empowering Product Management to be able to steer indeed!
 
