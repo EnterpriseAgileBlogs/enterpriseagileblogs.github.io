@@ -1,0 +1,37 @@
+{
+"src": "req5.png",
+"items": [
+{
+"nl": "Applicatie",
+"en": "Application",
+"word": true,
+"bold": true
+},
+{
+"nl": "Technisch",
+"en": "Technical",
+"word": true
+},
+{
+"nl": "Benodigde aanpassing",
+"en": [
+"Required",
+"change"
+],
+"bold": true
+},
+{
+"nl": "Enterprise IT Landschap",
+"en": "Enterprise IT Landscape",
+"bold": true
+},
+{
+"nl": "Applicatie 1",
+"en": "Application 1"
+},
+{
+"nl": "Applicatie n",
+"en": "Application n"
+}
+]
+}

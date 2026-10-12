@@ -1,0 +1,46 @@
+{
+"src": "keten2.png",
+"items": [
+{
+"nl": "Opdrachtgever Bedrijf A",
+"en": [
+"Client",
+"company A"
+]
+},
+{
+"nl": "Opdrachtnemer Bedrijf B",
+"en": [
+"Contractor",
+"company B"
+]
+},
+{
+"nl": "Klassieke inkoop afdeling",
+"en": [
+"Classic",
+"procurement"
+]
+},
+{
+"nl": "Klassieke aanbesteding leverancier",
+"en": [
+"Classic",
+"supplier",
+"tendering"
+]
+},
+{
+"nl": "Leverancier",
+"en": "Supplier",
+"word": true
+},
+{
+"nl": "Klassieke aansturing IT",
+"en": [
+"Classic",
+"governance IT"
+]
+}
+]
+}

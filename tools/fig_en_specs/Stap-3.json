@@ -1,0 +1,118 @@
+{
+"src": "Stap-3.png",
+"items": [
+{
+"nl": "Ontwikkelingsfase 3: Fysieke product teams, al dan niet virtueel aangevuld met Ops",
+"en": "Phase 3: Physical product teams, optionally virtually supplemented with Ops",
+"box": [
+45,
+14,
+410,
+14
+]
+},
+{
+"nl": "Klant domein 1",
+"en": "Customer domain 1",
+"box": [
+89,
+56,
+74,
+8
+]
+},
+{
+"nl": "Klant domein 2",
+"en": "Customer domain 2",
+"box": [
+213,
+56,
+74,
+8
+]
+},
+{
+"nl": "Klant domein 3",
+"en": "Customer domain 3",
+"box": [
+338,
+56,
+74,
+8
+]
+},
+{
+"nl": "Functie of component afdeling",
+"en": [
+"Functional or",
+"component",
+"department"
+],
+"box": [
+[
+262,
+227,
+46,
+30
+],
+[
+330,
+227,
+46,
+30
+],
+[
+398,
+227,
+46,
+30
+]
+],
+"size": 7.5,
+"pitch": 9.5,
+"pad": 1,
+"color": [
+255,
+255,
+255
+],
+"bold": true
+},
+{
+"nl": "Product of domein team",
+"en": [
+"Product or",
+"domain team"
+],
+"box": [
+[
+53,
+227,
+50,
+23
+],
+[
+120,
+227,
+50,
+23
+],
+[
+188,
+227,
+50,
+23
+]
+],
+"size": 7.5,
+"pitch": 9.5,
+"pad": 0,
+"color": [
+255,
+255,
+255
+],
+"bold": true
+}
+]
+}

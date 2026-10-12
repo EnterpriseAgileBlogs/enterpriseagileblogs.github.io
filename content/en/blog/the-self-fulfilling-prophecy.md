@@ -22,7 +22,7 @@ These are just a few of the remarks often heard when starting an agile initiativ
 
 However: agile initiatives require an investment! The ROI is a J curve!
 
-![Text box: -](/images/blog/J-curve.png)
+![Text box: -](/images/blog/J-curve-en.png)
 
 
 Causes of this (temporary) decrease in productivity (required investment):

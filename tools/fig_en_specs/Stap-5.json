@@ -1,0 +1,57 @@
+{
+"src": "Stap-5.png",
+"items": [
+{
+"nl": "Ontwikkelingsfase 5: Bedrijfs brede product of domein afdelingen",
+"en": "Phase 5: Enterprise-wide product or domain departments"
+},
+{
+"nl": "Klant domein 1",
+"en": "Customer domain 1"
+},
+{
+"nl": "Klant domein 2",
+"en": "Customer domain 2"
+},
+{
+"nl": "Klant domein 3",
+"en": "Customer domain 3"
+},
+{
+"nl": "DevOps Product of domein afdeling",
+"en": [
+"DevOps product or domain",
+"department"
+],
+"bold": true,
+"box": [
+[
+45,
+244,
+250,
+50
+],
+[
+355,
+244,
+250,
+50
+],
+[
+667,
+244,
+250,
+50
+]
+],
+"size": 17,
+"flat": false,
+"color": [
+255,
+255,
+255
+],
+"pitch": 24
+}
+]
+}

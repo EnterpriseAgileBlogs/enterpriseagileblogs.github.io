@@ -1,0 +1,105 @@
+{
+"src": "waardestromen.png",
+"items": [
+{
+"nl": "Business Waarde",
+"en": "Business value"
+},
+{
+"nl": "Business Domein 1",
+"en": "Business domain 1",
+"box": [
+69,
+222,
+132,
+17
+],
+"fit": true,
+"flat": false
+},
+{
+"nl": "Business Domein 2",
+"en": "Business domain 2",
+"box": [
+266,
+222,
+132,
+17
+],
+"fit": true,
+"flat": false
+},
+{
+"nl": "Business Domein 3",
+"en": "Business domain 3",
+"box": [
+455,
+222,
+133,
+17
+],
+"fit": true,
+"flat": false
+},
+{
+"nl": "Business Domein 4",
+"en": "Business domain 4",
+"box": [
+644,
+222,
+132,
+17
+],
+"fit": true,
+"flat": false
+},
+{
+"nl": "IT Afdeling 1",
+"en": "IT department 1",
+"box": [
+94,
+485,
+90,
+14
+],
+"fit": true,
+"flat": false
+},
+{
+"nl": "IT Afdeling 2",
+"en": "IT department 2",
+"box": [
+292,
+485,
+90,
+14
+],
+"fit": true,
+"flat": false
+},
+{
+"nl": "IT Afdeling 3",
+"en": "IT department 3",
+"box": [
+481,
+485,
+90,
+14
+],
+"fit": true,
+"flat": false
+},
+{
+"nl": "IT Afdeling 4",
+"en": "IT department 4",
+"box": [
+670,
+485,
+90,
+14
+],
+"fit": true,
+"flat": false
+}
+]
+}

@@ -45,7 +45,7 @@ In the Netherlands, most IT departments I encounter are organized as a matrix or
 **Agile maturity step 1 : Working iteratively within (temporary) projects in a matrix organization**  
 Projects in Development departments are staffed over and over again from the various functional oriented departments. This is the reason why Scrum in the beginning is mostly used in a project-oriented setting.
 
-![Step 1](/images/blog/stap-1.png)
+![Step 1](/images/blog/stap-1-en.png)
   
 This may bring advantages already, but not the advantages that are often promised. In Agile / Scrum we are talking about Product Owners and a Product Backlog. These are product -oriented business assets that require a Business Product oriented IT organization (assuming the client organization is already fairly Business Product oriented). If this is the case, you will see the return on investment of implementing an agile framework increase heavily. In addition, an agile approach is in conflict with the fixed scope that is often incorporated in project plans, and signed and approved in blood.
 

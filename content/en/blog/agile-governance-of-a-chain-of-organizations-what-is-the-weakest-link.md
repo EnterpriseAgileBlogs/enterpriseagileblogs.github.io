@@ -9,7 +9,7 @@ translated: true
 featured_image: /images/blog/kink.png
 ---
 
-![kink.png](/images/blog/kink.png)
+![kink.png](/images/blog/kink-en.png)
 
 ## **Introduction**
 
@@ -27,11 +27,11 @@ More and more I see that the cause of this is that an organization is also direc
 
 Below I have sketched 2 rough examples of this chain governance, which I see both in government and in business:
 
-![Figure 1: Example of a chain of governance in government](/images/blog/Keten1.png)
+![Figure 1: Example of a chain of governance in government](/images/blog/Keten1-en.png)
 
 *Figure 1: Example of a chain of governance in government*
 
-![Figure 2: Example of a chain of governance in business](/images/blog/keten2.png)
+![Figure 2: Example of a chain of governance in business](/images/blog/keten2-en.png)
 
 *Figure 2: Example of a chain of governance in business*
 
@@ -45,7 +45,7 @@ Toyota decided back then to break with suppliers if they did not pursue the same
 
 Here I list some random examples of differences in governance:
 
-![verschillen-besturing.png](/images/blog/verschillen-besturing.png)
+![verschillen-besturing.png](/images/blog/verschillen-besturing-en.png)
 
 These differences apply within an organization, but can just as well be applied in chain governance. However, this way of governing is far from being applied within most organizations, let alone in the chain.
 

@@ -1,0 +1,85 @@
+{
+"src": "Stap-4.png",
+"items": [
+{
+"nl": "Ontwikkelingsfase 4: DevOps binnen IT",
+"en": "Phase 4: DevOps within IT",
+"box": [
+152,
+13,
+192,
+14
+]
+},
+{
+"nl": "Klant domein 1",
+"en": "Customer domain 1",
+"box": [
+89,
+56,
+74,
+8
+]
+},
+{
+"nl": "Klant domein 2",
+"en": "Customer domain 2",
+"box": [
+213,
+56,
+74,
+8
+]
+},
+{
+"nl": "Klant domein 3",
+"en": "Customer domain 3",
+"box": [
+338,
+56,
+74,
+8
+]
+},
+{
+"nl": "DevOps Product of domein team",
+"en": [
+"DevOps",
+"Product or",
+"domain team"
+],
+"box": [
+[
+154,
+172,
+56,
+32
+],
+[
+224,
+172,
+56,
+32
+],
+[
+292,
+172,
+56,
+32
+]
+],
+"size": 7.5,
+"pitch": 10,
+"pad": 1,
+"color": [
+255,
+255,
+255
+],
+"bold": true,
+"flat": false,
+"maskfg": true,
+"maskthr": 150
+}
+]
+}

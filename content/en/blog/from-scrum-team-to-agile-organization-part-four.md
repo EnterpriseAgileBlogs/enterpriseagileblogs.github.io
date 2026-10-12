@@ -11,7 +11,7 @@ featured_image: "/images/blog/Structureshift4.png"
 
 ![Structureshift4.png](/images/blog/Structureshift4.png)
 
-![12345-1.jpg](/images/blog/12345-1.jpg)
+![12345-1.jpg](/images/blog/12345-1-en.png)
 
 **Agile maturity step 4: DevOps within IT**  
 **Introduction**  
@@ -41,7 +41,7 @@ In fact, we are talking about a total tilt from a complex organization with simp
 
 **Agile maturity step 4: DevOps within IT**
 
-![step 4](/images/blog/Stap-4.png)
+![step 4](/images/blog/Stap-4-en.png)
   
 Figure 2 . The IT domain consists of departments in which fixed DevOps teams are responsible for development, maintenance and operation of (sub) business products.
 

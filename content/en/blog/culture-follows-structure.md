@@ -27,13 +27,13 @@ How do I envision this, and how does SAFe 5.0 look at it? I try to make this cle
 
 ## The classic functional silos
 
-![silo.png](/images/blog/silo.png)
+![silo.png](/images/blog/silo-en.png)
 
 This is how many existing organizations still look. Over time all specializations have become pillarized into functional silos that are mostly uni-disciplinary and pursue their own (departmental) goals rather than the goals of the products the company delivers. In this very simplified example I assume for a moment that the business departments are already organized into distinct product groups.
 
 ## Overlay of Release Trains
 
-![silo2.png](/images/blog/silo2.png)
+![silo2.png](/images/blog/silo2-en.png)
 
 The Scaled Agile Framework (SAFe) lays Agile Release Trains (ARTs, or self-organizing teams of teams) over the value streams (here referred to as product groups).
 
@@ -52,7 +52,7 @@ The transition that both business and staff departments need to make is now as f
     1.  A corporate staff or portfolio team to be formed
 3.  The individual employees focus on working in a multidisciplinary team aimed at value creation, specialize further in agile working and safeguard their expertise in communities (for example an HR community)
 
-![silo3.png](/images/blog/silo3.png)
+![silo3.png](/images/blog/silo3-en.png)
 
 ## Abolishing the existing structure
 
@@ -68,13 +68,13 @@ So: away with that rigid ERP system that does not allow you to easily move emplo
 
 If you take that step, the picture looks as follows:
 
-![silo4.png](/images/blog/silo4.png)
+![silo4.png](/images/blog/silo4-en.png)
 
 ## Multidisciplinary teams, you say?
 
 To illustrate that it really is about multidisciplinary teams, and no longer about an HR team or anything like that, I zoom in on 1 Release Train. In the appendix at the end the example teams are enlarged:
 
-![silo5.png](/images/blog/silo5.png)
+![silo5.png](/images/blog/silo5-en.png)
 
 The roles mentioned here are fictitious. It is more to illustrate that it is about multidisciplinary teams, and that you can distinguish several kinds of multidisciplinary teams in a release train.
 
@@ -92,10 +92,10 @@ Interested? Then sign up for 1 of the open-schedule ‘Leading SAFe’ trainings
 
 The visualization of the kinds of teams only concerns examples. A lot can be said about T- and W-shaped employees, about what should and should not be in a DevOps team, about the Scrum Guide making no distinction in team roles apart from Scrum Master and Product Owner. But the essence here is the fact that we only think in multidisciplinary teams as the ‘building block’ of the agile organization, and no longer in individual employees creating ‘deliverables’. Because the example roles are not easily readable, the example teams are enlarged below:
 
-![team1.png](/images/blog/team1.png)
+![team1.png](/images/blog/team1-en.png)
 
-![team2.png](/images/blog/team2.png)
+![team2.png](/images/blog/team2-en.png)
 
 ![team3.png](/images/blog/team3.png)
 
-![team4.png](/images/blog/team4.png)
+![team4.png](/images/blog/team4-en.png)

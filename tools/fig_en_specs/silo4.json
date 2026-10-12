@@ -1,0 +1,101 @@
+{
+"src": "silo4.png",
+"items": [
+{
+"nl": "Bestaande structuur opgeheven, geen onderscheid meer in functionele silo's",
+"en": [
+"Existing structure dissolved, no more",
+"distinction between functional silos"
+]
+},
+{
+"nl": "(Vakkennis geborgd middels communities)",
+"en": "(Expertise safeguarded through communities)",
+"box": [
+289,
+74,
+222,
+13
+],
+"pad": 0,
+"size": 12.8
+},
+{
+"nl": "Release Train 4 (Generieke services)",
+"en": [
+"Release Train 4",
+"(Generic services)"
+],
+"box": [
+652,
+116,
+140,
+42
+],
+"size": 14.8,
+"pitch": 14,
+"pad": 4
+},
+{
+"nl": "(Productgroep 1)",
+"en": "(Product group 1)",
+"align": "l"
+},
+{
+"nl": "(Productgroep 2)",
+"en": "(Product group 2)",
+"align": "l"
+},
+{
+"nl": "(Productgroep 3)",
+"en": "(Product group 3)",
+"align": "l"
+},
+{
+"nl": "STAF",
+"en": "STAFF",
+"word": true
+},
+{
+"nl": "Staf 1 Staf 2 Staf 3",
+"en": "Staff 1 Staff 2 Staff 3"
+},
+{
+"nl": "Staf",
+"en": "Staff",
+"box": [
+[
+304,
+114,
+13,
+8
+],
+[
+303,
+193,
+13,
+8
+],
+[
+303,
+268,
+13,
+8
+],
+[
+303,
+341,
+13,
+8
+]
+],
+"size": 7,
+"pad": 1,
+"color": [
+235,
+235,
+235
+]
+}
+]
+}

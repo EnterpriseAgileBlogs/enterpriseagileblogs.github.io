@@ -1,0 +1,38 @@
+{
+"src": "backlogs.png",
+"items": [
+{
+"nl": "Verschillende backlogs zijn input voor de sprint backlog",
+"en": [
+"Different backlogs are input for",
+"the sprint backlog"
+]
+},
+{
+"nl": "Technische Schuld backlog",
+"en": [
+"Technical",
+"debt",
+"backlog"
+],
+"align": "l"
+},
+{
+"nl": "Verbeter backlog",
+"en": [
+"Improvement",
+"backlog"
+],
+"align": "l"
+},
+{
+"nl": "(Bijv. Test automatisering items, maar ook aanpassen Scrum bord)",
+"en": "(E.g. test automation items, but also adjusting the Scrum board)",
+"align": "l"
+},
+{
+"nl": "Taken",
+"en": "Tasks"
+}
+]
+}

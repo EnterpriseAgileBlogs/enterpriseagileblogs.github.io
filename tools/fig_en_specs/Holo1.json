@@ -1,0 +1,80 @@
+{
+"src": "Holo1.png",
+"items": [
+{
+"nl": "Traditionele organisatie",
+"en": "Traditional organization"
+},
+{
+"nl": "Formele structuur",
+"en": "Formal structure",
+"box": [
+23,
+84,
+220,
+22
+]
+},
+{
+"nl": "Informele structuur",
+"en": "Informal structure",
+"box": [
+770,
+102,
+238,
+22
+]
+},
+{
+"nl": "Gewenste structuur",
+"en": "Desired structure"
+},
+{
+"nl": "Organigram Functiebeschrijvingen",
+"en": [
+"Org chart",
+"Job descriptions"
+],
+"box": [
+268,
+216,
+184,
+50
+],
+"size": 19,
+"pitch": 23,
+"pad": 0
+},
+{
+"nl": "Hoe de dingen echt werken",
+"en": [
+"How things",
+"really work"
+],
+"box": [
+520,
+216,
+160,
+50
+],
+"size": 19,
+"pitch": 23
+},
+{
+"nl": "De ideale organisatie structuur op elk gegeven moment",
+"en": [
+"The ideal",
+"organization structure",
+"at any given moment"
+],
+"box": [
+398,
+406,
+188,
+78
+],
+"size": 19,
+"pitch": 23
+}
+]
+}

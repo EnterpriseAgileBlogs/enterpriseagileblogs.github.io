@@ -25,9 +25,9 @@ Of course it seems easy to have a team trained in Scrum and then get started. Pr
 
 One of the most underestimated things I come across, especially with architects and engineers, is thinking in business value. Thinking in business value means letting the effectiveness of the whole prevail over the efficiency of the parts. What I mean by this is that architects and engineers are used to thinking in technical components. Technical components are part of the SOLUTION and do not necessarily represent business value. In fact, they usually do not. Architects and engineers think: 'If I am editing this code, I might as well edit the code for the next User Story, because it is in the same component. Why would I build and deploy this Story, if I have to check in the same code again for the next Story?'. This is thinking in efficiency, not in effectiveness. If we visualize this in a simple way, it looks like this:
 
-![req1.png](/images/blog/req1.png)
+![req1.png](/images/blog/req1-en.png)
 
-![Figure 1 and 2: Components within 1 application with changes per component](/images/blog/req2.png)
+![Figure 1 and 2: Components within 1 application with changes per component](/images/blog/req2-en.png)
 
 *Figure 1 and 2: Components within 1 application with changes per component*
 
@@ -35,7 +35,7 @@ Above you see that component after component is changed, regardless of whether t
 
 Below you see visualized how the work should be ‘sliced’ instead (assuming a feature for this application could be put into production independently):
 
-![Image with screenshot Automatically generated description](/images/blog/req3.png)
+![Image with screenshot Automatically generated description](/images/blog/req3-en.png)
 
 *Figure 3: ‘slicing’ features right through multiple components of an application*
 
@@ -56,21 +56,21 @@ Since 2013 I have been helping organizations achieve their business objectives b
 
 The enterprise IT landscape usually looks something like this (simplified):
 
-![Image with screenshot Automatically generated description](/images/blog/req4.png)
+![Image with screenshot Automatically generated description](/images/blog/req4-en.png)
 
 *Figure 4: The layers of the IT landscape*
 
 
 The IT landscape is layered horizontally, according to the strategy of converging the landscape to fewer applications per layer in order to reduce the total cost of ownership. Teams are traditionally oriented towards one of those layers. In the front office you see many web and app teams, and in the back office you see many teams maintaining the legacy applications. Again, this is more than simplified and very general. Here you initially see component teams being ‘glued’ onto the three layers:
 
-![Image with screenshot Automatically generated description](/images/blog/req5.png)
+![Image with screenshot Automatically generated description](/images/blog/req5-en.png)
 
 *Figure 5: Component teams are positioned on the three layers of the IT landscape*
 
 
 In a scaled environment we want teams that orient themselves on a business product, or value stream as we call it. Examples of the main value streams for an insurance company are: Property & Casualty, Life and Pension insurance. But the customer needs for these product (group)s usually have an impact on front, mid and back office. We also no longer have projects. The scope of the projects is defined in so-called Epics, and we bring these to the fixed teams of teams. Another paradigm shift I often talk about. Epics are large customer requirements that should also independently represent customer value, and not just an arbitrary assignment. And each value stream uses certain applications from each layer. This looks as follows:
 
-![Image with screenshot Automatically generated description](/images/blog/req6.png)
+![Image with screenshot Automatically generated description](/images/blog/req6-en.png)
 
 *Figure 6: Teams of teams oriented on a business product (group) or value stream cut right through the three layers of the IT landscape*
 

@@ -1,0 +1,134 @@
+{
+"src": "boston1.png",
+"items": [
+{
+"nl": "Een wendbare organisatie in beeld analoog de Boston Matrix",
+"en": "An agile organization pictured analogous to the Boston Matrix"
+},
+{
+"nl": "Team van Teams",
+"en": "Team of Teams"
+},
+{
+"nl": "Product of",
+"en": "Product or"
+},
+{
+"nl": "Dienst A",
+"en": "Service A"
+},
+{
+"nl": "Dienst B",
+"en": "Service B"
+},
+{
+"nl": "Dienst C",
+"en": "Service C"
+},
+{
+"nl": "Dienst D",
+"en": "Service D"
+},
+{
+"nl": "Klanten",
+"en": "Customers",
+"word": true
+}
+],
+"draw": [
+{
+"erase": [
+8,
+380,
+200,
+56
+],
+"texts": [
+[
+10,
+386,
+"Team of teams",
+12,
+false,
+[
+25,
+25,
+25
+]
+],
+[
+124,
+386,
+"= Department",
+12,
+false,
+[
+25,
+25,
+25
+]
+],
+[
+10,
+400,
+"Department resources",
+12,
+false,
+[
+25,
+25,
+25
+]
+],
+[
+124,
+400,
+"= Department budget",
+12,
+false,
+[
+25,
+25,
+25
+]
+],
+[
+10,
+414,
+"Department budget",
+12,
+false,
+[
+25,
+25,
+25
+]
+],
+[
+124,
+414,
+"= Product budget",
+12,
+false,
+[
+25,
+25,
+25
+]
+],
+[
+10,
+428,
+"(Total: 18 teams)",
+12,
+false,
+[
+25,
+25,
+25
+]
+]
+]
+}
+]
+}

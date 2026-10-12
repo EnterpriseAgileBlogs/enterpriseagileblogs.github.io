@@ -1,0 +1,18 @@
+{
+"src": "fractal6.png",
+"items": [
+{
+"nl": "Component team of squad",
+"en": "Component team or squad"
+},
+{
+"nl": "Feature team of squad",
+"en": [
+"Feature",
+"team or",
+"squad"
+],
+"rot": 270
+}
+]
+}

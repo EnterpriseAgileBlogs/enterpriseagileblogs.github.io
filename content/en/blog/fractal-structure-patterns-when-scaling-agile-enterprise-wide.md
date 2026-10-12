@@ -17,7 +17,7 @@ In my experience with setting up agile ways of working across organizations, I h
 
 The most important paradigm shifts are the shifts from inside-out to outside-in thinking, from functional to product-oriented structuring, and from an Anglo-Saxon to a Rhineland way of leading and organizing. Tilting organizations from an Anglo-Saxon to a Rhineland organization structure and governance is actually what implicitly needs to happen in agile transitions.
 
-![Figure 1: tilting organizations from Anglo-Saxon to Rhineland oriented](/images/blog/fractal1.png)
+![Figure 1: tilting organizations from Anglo-Saxon to Rhineland oriented](/images/blog/fractal1-en.png)
 
 *Figure 1: tilting organizations from Anglo-Saxon to Rhineland oriented*
 
@@ -41,13 +41,13 @@ A single team is (already according to Scrum) business-oriented. We call that a 
 
 This looks as follows:
 
-![Figure 2: Feature teams in green, component team in orange](/images/blog/fractal2.png)
+![Figure 2: Feature teams in green, component team in orange](/images/blog/fractal2-en.png)
 
 *Figure 2: Feature teams in green, component team in orange*
 
 The backlog of a feature team consists of User Stories for one specific business product. The backlog of a component team consists of User Stories requested by both feature teams. Example: feature team 1 is called Collections and feature team 2 is called Payments. The component team can be a support team or mid-tier team that supports both feature teams. Of course, the ideal situation would be a flat organization consisting of nothing more than feature teams and a CEO. That would look like this:
 
-![Figure 3: An ideal flat organization consisting only of feature teams](/images/blog/fractal3.png)
+![Figure 3: An ideal flat organization consisting only of feature teams](/images/blog/fractal3-en.png)
 
 *Figure 3: An ideal flat organization consisting only of feature teams*
 
@@ -57,7 +57,7 @@ In practice, however, you almost always also have component teams. In any case, 
 
 When we have more than 5 teams, or 50 employees, oriented on one product, we call that a team of teams, or a tribe. It means these people all work together in the same cadence and flow to innovate and maintain a product. Schematically it would look like this:
 
-![Figure 4: A tribe consisting of 2 feature teams and one component team](/images/blog/fractal4.png)
+![Figure 4: A tribe consisting of 2 feature teams and one component team](/images/blog/fractal4-en.png)
 
 *Figure 4: A tribe consisting of 2 feature teams and one component team*
 
@@ -73,7 +73,7 @@ If a product can be innovated and maintained by between 50 and 150 people, or ab
 
 If we then also visualize the position of the teams within the tribes (again, I keep the pattern of one component team with 2 feature teams for schematic reasons; in reality you would of course see all kinds of different compositions), it would look like this:
 
-![Figure 6: A value stream made up of one component-oriented tribe and two business-oriented tribes, each again consisting of one component team and two feature teams](/images/blog/fractal6.png)
+![Figure 6: A value stream made up of one component-oriented tribe and two business-oriented tribes, each again consisting of one component team and two feature teams](/images/blog/fractal6-en.png)
 
 *Figure 6: A value stream made up of one component-oriented tribe and two business-oriented tribes, each again consisting of one component team and two feature teams*
 
@@ -86,7 +86,7 @@ Now take a telco. As an example, it has these two value streams:
 
 So the pattern can even be extended to the enterprise-wide level. This looks as follows:
 
-![Figure 7: A company with two business value streams (products) and one component or shared-service oriented value stream.](/images/blog/fractal7.png)
+![Figure 7: A company with two business value streams (products) and one component or shared-service oriented value stream.](/images/blog/fractal7-en.png)
 
 *Figure 7: A company with two business value streams (products) and one component or shared-service oriented value stream.*
 
@@ -94,7 +94,7 @@ The shared service center could, for example, represent the infrastructure servi
 
 If we again assume that these are very large value streams with more than 15 teams each, they can in turn contain multiple tribes. This completes the fractal character and looks as follows:
 
-![Figure 8: The enterprise-wide view of the (theoretical) fractal structure](/images/blog/fractal8.png)
+![Figure 8: The enterprise-wide view of the (theoretical) fractal structure](/images/blog/fractal8-en.png)
 
 *Figure 8: The enterprise-wide view of the (theoretical) fractal structure*
 

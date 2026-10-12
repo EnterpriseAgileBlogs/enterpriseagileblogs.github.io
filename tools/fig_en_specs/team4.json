@@ -1,0 +1,30 @@
+{
+"src": "team4.png",
+"items": [
+{
+"nl": "Staf Team",
+"en": [
+"Staff",
+"Team"
+],
+"maskfg": true,
+"color": [
+255,
+255,
+255
+]
+},
+{
+"nl": "Jurist",
+"en": "Legal Counsel",
+"word": true,
+"box": [
+668,
+162,
+86,
+36
+],
+"size": 32
+}
+]
+}

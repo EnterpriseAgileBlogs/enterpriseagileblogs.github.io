@@ -1,0 +1,64 @@
+{
+"src": "Trend-zonder.png",
+"items": [
+{
+"nl": "Trend zonder continue proces en kwaliteitsverbetering (Huidige situatie)",
+"en": [
+"Trend without continuous process and",
+"quality improvement (current situation)"
+],
+"size": 24
+},
+{
+"nl": "Continue proces en kwaliteitsverbetering is vaak geen cultuur, en vormt grote uitdaging",
+"en": "Continuous improvement is rarely part of the culture and a major challenge",
+"align": "l",
+"size": 10
+},
+{
+"nl": "Alleen effort besteed aan innovatie en onderhoud (backlog) telt mee voor de productiviteit!",
+"en": [
+"Only effort spent on innovation and maintenance",
+"(backlog) counts towards productivity!"
+],
+"align": "l",
+"bold": true
+},
+{
+"nl": "Stilstand betekent dalende productiviteit",
+"en": "Standing still means declining productivity",
+"align": "l",
+"bold": true
+},
+{
+"nl": "Innovatie en onderhoud",
+"en": "Innovation and maintenance",
+"align": "l",
+"box": [
+52,
+222,
+80,
+9
+],
+"size": 8.1
+},
+{
+"nl": "Verminderen technische schuld",
+"en": "Reducing technical debt",
+"align": "l",
+"size": 8.1
+},
+{
+"nl": "Procesverbetering",
+"en": "Process improvement",
+"align": "l",
+"size": 8.1
+},
+{
+"nl": "Wegwerken hotfixes en defects",
+"en": "Resolving hotfixes and defects",
+"align": "l",
+"size": 8.1
+}
+]
+}

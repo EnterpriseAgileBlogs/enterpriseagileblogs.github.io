@@ -70,7 +70,7 @@ As said, the monthly cost of delay is invisible to the organization. To the exte
 
 I have supplemented the J-curve from the aforementioned blog with information:
 
-![Figure 1. Possible curves visualizing the cost of delay](/images/blog/Kosten-van-uitstel.jpg)
+![Figure 1. Possible curves visualizing the cost of delay](/images/blog/Kosten-van-uitstel-en.png)
 
 *Figure 1. Possible curves visualizing the cost of delay*
 

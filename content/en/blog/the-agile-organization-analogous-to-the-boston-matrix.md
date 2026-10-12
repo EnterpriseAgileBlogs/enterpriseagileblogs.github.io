@@ -21,7 +21,7 @@ In this blog I want to go into that ongoing change and improvement of an organiz
 
 In an agile organization there is no longer a difference between business and IT. Because, after all, all business is IT-driven due to the entire digitalization of products and product sales. Preferably an organization consists of self-organizing teams of teams oriented on products or value streams. These teams of teams are called ‘Tribes’, ‘Agile Release Trains’ or ‘Grids’. Either an organization adopts the name from a scaling framework, such as ‘Agile Release Train’ (ART) from the Scaled Agile Framework (SAFe), or they come up with their own name for it, such as Grids at ABN-AMRO. But it comes down to the same thing: you have self-organizing teams of multidisciplinary self-organizing teams, with a mix of business and IT in them, that stand for a certain business theme. Below is an example of what that can look like:
 
-![Figure 1: An organization with 3 main products or product groups](/images/blog/boston1.png)
+![Figure 1: An organization with 3 main products or product groups](/images/blog/boston1-en.png)
 
 *Figure 1: An organization with 3 main products or product groups*
 
@@ -31,21 +31,21 @@ In figure 1 you see an organization with 3 main product groups for which teams o
 
 Below you see, following this (simplified) linking of teams of teams to the life cycles of the Boston Matrix, how this can change over time:
 
-![Figure 2: Main products or product groups enter different life cycles](/images/blog/boston2.png)
+![Figure 2: Main products or product groups enter different life cycles](/images/blog/boston2-en.png)
 
 *Figure 2: Main products or product groups enter different life cycles*
 
 In figure 2 you see that the number of teams moves along with the life cycle of the product or product group. By shifting this capacity over time across the teams of teams, you also shift the budget that you as a company reserve for innovation and management of that product. In this case more budget in total has been allocated in 2020, because there are 2 more teams than in 2019. On the other hand, we do have 2 products that generate a lot of revenue.
 
-![Figure 3: the situation in 2021](/images/blog/boston3.png)
+![Figure 3: the situation in 2021](/images/blog/boston3-en.png)
 
 *Figure 3: the situation in 2021*
 
-![Figure 4: the situation in 2022](/images/blog/boston4.png)
+![Figure 4: the situation in 2022](/images/blog/boston4-en.png)
 
 *Figure 4: the situation in 2022*
 
-![Figure 5: the situation in 2023](/images/blog/boston5.png)
+![Figure 5: the situation in 2023](/images/blog/boston5-en.png)
 
 *Figure 5: the situation in 2023*
 

@@ -1,0 +1,55 @@
+{
+"src": "silo.png",
+"items": [
+{
+"nl": "Klassieke functionele silo's in organisaties",
+"en": "Classic functional silos in organizations"
+},
+{
+"nl": "Business afdeling 1",
+"en": "Business department 1",
+"align": "l"
+},
+{
+"nl": "Business afdeling 2",
+"en": "Business department 2",
+"align": "l"
+},
+{
+"nl": "Business afdeling 3",
+"en": "Business department 3",
+"align": "l"
+},
+{
+"nl": "Release Train 4 (Generieke services)",
+"en": [
+"Release Train 4",
+"(Generic services)"
+]
+},
+{
+"nl": "(Productgroep 1)",
+"en": "(Product group 1)",
+"align": "l"
+},
+{
+"nl": "(Productgroep 2)",
+"en": "(Product group 2)",
+"align": "l"
+},
+{
+"nl": "(Productgroep 3)",
+"en": "(Product group 3)",
+"align": "l"
+},
+{
+"nl": "STAF",
+"en": "STAFF",
+"word": true
+},
+{
+"nl": "Staf 1 Staf 2 Staf 3",
+"en": "Staff 1 Staff 2 Staff 3"
+}
+]
+}

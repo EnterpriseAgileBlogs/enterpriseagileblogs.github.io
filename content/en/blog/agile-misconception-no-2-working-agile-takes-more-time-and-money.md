@@ -24,7 +24,7 @@ This ‘extra’ investment is often experienced as additional cost and time, bu
 The law of Boehm dates from 1981 and reads as follows: ‘The  
 later in the development process errors are detected, the exponentially higher the repair costs will be’
 
-![](/images/blog/boehms-law.jpg)
+![](/images/blog/boehms-law-en.png)
 
 The risk-driven approach, where you try to mitigate the biggest risks or impediments first, ensures that you will save exponentially on costs.
 

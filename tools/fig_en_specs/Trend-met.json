@@ -1,0 +1,68 @@
+{
+"src": "Trend-met.png",
+"items": [
+{
+"nl": "Tijdelijke terugval in productiviteit bij overgang naar continue proces en kwaliteitsverbetering",
+"en": [
+"Temporary drop in productivity when moving",
+"to continuous process and",
+"quality improvement"
+],
+"size": 24
+},
+{
+"nl": "Alleen effort besteed aan innovatie en onderhoud (backlog) telt mee voor de productiviteit!",
+"en": [
+"Only effort spent on innovation and maintenance (backlog) counts towards",
+"productivity!"
+],
+"align": "l",
+"bold": true
+},
+{
+"nl": "Overgang naar investeren in proces en kwaliteitsverbetering geeft eerst dalende, op langere duur stijgende productiviteit",
+"en": [
+"Investing in process and quality improvement first lowers, but in the",
+"longer term increases productivity"
+],
+"align": "l",
+"bold": true
+},
+{
+"nl": "Innovatie en onderhoud",
+"en": "Innovation and maintenance",
+"align": "l",
+"box": [
+52,
+222,
+80,
+9
+],
+"size": 8.1
+},
+{
+"nl": "Verminderen technische schuld",
+"en": "Reducing technical debt",
+"align": "l",
+"box": [
+53,
+241,
+103,
+11
+],
+"size": 8.1
+},
+{
+"nl": "Procesverbetering",
+"en": "Process improvement",
+"align": "l",
+"size": 8.1
+},
+{
+"nl": "Wegwerken hotfixes en defects",
+"en": "Resolving hotfixes and defects",
+"align": "l",
+"size": 8.1
+}
+]
+}

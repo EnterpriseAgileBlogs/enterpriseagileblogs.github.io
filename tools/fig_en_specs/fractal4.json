@@ -1,0 +1,22 @@
+{
+"src": "fractal4.png",
+"items": [
+{
+"nl": "Release train of tribe Y",
+"en": "Release train or tribe Y",
+"size": 80
+},
+{
+"nl": "Component team of squad",
+"en": "Component team or squad"
+},
+{
+"nl": "Feature team of squad",
+"en": [
+"Feature team or",
+"squad"
+],
+"rot": 270
+}
+]
+}

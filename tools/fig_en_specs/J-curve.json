@@ -1,0 +1,27 @@
+{
+"src": "J-curve.png",
+"items": [
+{
+"nl": "Productiviteit",
+"en": "Productivity",
+"rot": 270
+},
+{
+"nl": "½ jaar tot 1 jaar per waardestroom",
+"en": "½ to 1 year per value stream",
+"box": [
+335,
+1054,
+672,
+46
+],
+"size": 44.3,
+"pad": 3
+},
+{
+"nl": "Tijd",
+"en": "Time",
+"word": true
+}
+]
+}

@@ -1,0 +1,54 @@
+{
+"src": "Kosten-van-uitstel.jpg",
+"items": [
+{
+"nl": "Kosten van uitstel van agile transformaties (Cost of delay)",
+"en": "Cost of delay of agile transformations",
+"bold": true,
+"align": "l"
+},
+{
+"nl": "€ potentiële baten",
+"en": "€ potential benefits",
+"rot": 270,
+"bold": true
+},
+{
+"nl": "(Half tot 1 jaar per waardestroom)",
+"en": [
+"(Half a year to 1 year per",
+"value stream)"
+]
+},
+{
+"nl": "Minimaal benodigde periode in hybride situatie (Oude schoenen na overgangsperiode tijdig weg)",
+"en": [
+"Minimum required period in",
+"hybrid situation (old shoes",
+"discarded in time after transition)"
+],
+"align": "l"
+},
+{
+"nl": "Potentiële periode van kosten van uitstel (Blijft op bodemniveau zolang oude schoenen niet weg)",
+"en": [
+"Potential period of cost of",
+"delay (stays at bottom level as",
+"long as old shoes are not discarded)"
+],
+"align": "l"
+},
+{
+"nl": "ROI moment ver in de tijd",
+"en": [
+"ROI moment",
+"far in the future"
+]
+},
+{
+"nl": "Tijd",
+"en": "Time",
+"word": true
+}
+]
+}

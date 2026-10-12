@@ -1,0 +1,15 @@
+{
+"src": "prince2taart.png",
+"items": [
+{
+"nl": "Beheersing (Control)",
+"en": "Control",
+"bold": true
+},
+{
+"nl": "Flexibiliteit (Agility)",
+"en": "Flexibility (Agility)",
+"bold": true
+}
+]
+}

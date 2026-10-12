@@ -33,7 +33,7 @@ IT demand organizations are confronted with three paradigm shifts.
 
 1. First of all there’s the paradigm shift from going from plan driven to value driven way of working and handling of project tolerances:
 
-![](/images/blog/shift-scope.png)
+![](/images/blog/shift-scope-en.png)
 
 2. The second paradigm shift is for the project managers. They will have to go from ‘Managing’ to ‘Directing’. This means they are used to handle fixed price projects as a black box, and managing many projects like that at the same time.  They are able to do this, because they only will have to check a report from the System Integrator regularly, like once a week. They are more of a demand manager and are managing by exception.
 

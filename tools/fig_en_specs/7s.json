@@ -1,0 +1,104 @@
+{
+"src": "7s.png",
+"items": [
+{
+"nl": "strategie",
+"en": "strategy",
+"box": [
+204,
+58,
+66,
+17
+],
+"size": 17,
+"flat": "row",
+"color": [
+0,
+0,
+0
+],
+"pad": 1
+},
+{
+"nl": "structuur",
+"en": "structure",
+"box": [
+97,
+118,
+69,
+15
+],
+"size": 17,
+"flat": "row",
+"color": [
+0,
+0,
+0
+],
+"pad": 0
+},
+{
+"nl": "stijl",
+"en": "style",
+"box": [
+330,
+118,
+26,
+16
+],
+"size": 17,
+"flat": "row",
+"color": [
+0,
+0,
+0
+],
+"pad": 1
+},
+{
+"nl": "syste- men",
+"en": [
+"sys-",
+"tems"
+],
+"box": [
+114,
+212,
+48,
+35
+],
+"pitch": 18,
+"size": 17,
+"flat": "row",
+"color": [
+0,
+0,
+0
+],
+"pad": 1
+},
+{
+"nl": "staf",
+"en": "staff",
+"box": [
+316,
+230,
+31,
+17
+],
+"size": 17,
+"flat": "row",
+"color": [
+0,
+0,
+0
+],
+"pad": 1
+},
+{
+"nl": "Het 7 essen model (peters en Waterman, 1986)",
+"en": "The 7S model (Peters and Waterman, 1986)",
+"align": "l"
+}
+]
+}

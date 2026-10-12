@@ -11,7 +11,7 @@ featured_image: /images/blog/Structureshift5.png
 
 ![Structureshift5.png](/images/blog/Structureshift5.png)
 
-![12345-1.jpg](/images/blog/12345-1.jpg)
+![12345-1.jpg](/images/blog/12345-1-en.png)
 
 **(Development stage 5: Enterprise-wide product or domain departments (back to the silo!))**
 
@@ -59,7 +59,7 @@ You can apply centralization and decentralization to several aspects. In this bl
 
 We still remember that IT originated within the business departments because employees produced all kinds of Excel-like applications to lighten their own tasks. In the long run this became unmaintainable, there was no documentation of it, and it was error-prone. That was one of the reasons to centralize the IT landscape, besides the cost aspect. Total cost of ownership drove architects to propose the same application for all business domains. This led to horizontalization of the IT landscape, whereas the business domains are vertical to it.
 
-![Figure 1. Value streams for business products are perpendicular to the horizontal IT landscape](/images/blog/waardestromen.png)
+![Figure 1. Value streams for business products are perpendicular to the horizontal IT landscape](/images/blog/waardestromen-en.png)
 
 *Figure 1. Value streams for business products are perpendicular to the horizontal IT landscape*
 
@@ -67,7 +67,7 @@ In his article in XR magazine, [Centralisatie of decentralisatie - wanneer houdt
 
 For realizing an ultimate agile enterprise I now see the trend towards decentralization of the organization structure based on business domains or value streams. This versus the already centralized IT landscape which, through increased flexibility and reduction of technical debt, will have to support the aforementioned decentralization of the organization structure.
 
-![Stap-5.png](/images/blog/Stap-5.png)
+![Stap-5.png](/images/blog/Stap-5-en.png)
 
 Figure 2: IT is integrated with, and part of, the various business domains (domain or value stream silos)
 
@@ -75,7 +75,7 @@ Figure 2: IT is integrated with, and part of, the various business domains (doma
 
 This new form of governing an organization assumes that every employee is a sensor for problems, waste and opportunities. By granting employees or teams autonomy and a mandate to improve processes and even the organization structure, within set boundaries, actors are created who can actually implement improvements. All of this does serve a certain purpose, a business purpose. This fits perfectly with creating autonomous self-organizing teams, lowering content-related decision-making in the organization, continuous process improvement and value creation as the main goal of agile thinking. It is, however, a radically different way of running a business, one that makes many layers of management redundant, or even makes the entire management in the traditional sense redundant.
 
-![Figure 3. The three divergent forms of organization structure in a traditional organization. Source: holocracy.org](/images/blog/Holo1.png)
+![Figure 3. The three divergent forms of organization structure in a traditional organization. Source: holocracy.org](/images/blog/Holo1-en.png)
 
 *Figure 3. The three divergent forms of organization structure in a traditional organization. Source: holocracy.org*
 

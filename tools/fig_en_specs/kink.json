@@ -1,0 +1,35 @@
+{
+"src": "kink.png",
+"items": [
+{
+"nl": "Lean Agile besturing",
+"en": "Lean-Agile steering",
+"box": [
+[
+8,
+174,
+192,
+32
+],
+[
+405,
+170,
+192,
+38
+]
+],
+"size": 20.9,
+"bold": true,
+"flat": false,
+"maskfg": true,
+"maskthr": 330,
+"color": [
+0,
+0,
+0
+],
+"pad": 1,
+"align": "l"
+}
+]
+}

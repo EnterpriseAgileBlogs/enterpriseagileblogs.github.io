@@ -1,0 +1,52 @@
+{
+"src": "team2.png",
+"items": [
+{
+"nl": "System/ Tool ondersteuning Team",
+"en": [
+"System/",
+"Tool",
+"support",
+"Team"
+],
+"box": [
+410,
+468,
+610,
+465
+],
+"size": 105,
+"color": [
+255,
+255,
+255
+],
+"pitch": 100,
+"maskfg": true,
+"maskthr": 60
+},
+{
+"nl": "Technische Schuld Tool Specialist",
+"en": [
+"Technical",
+"Debt",
+"Tool",
+"Specialist"
+]
+},
+{
+"nl": "Integratie/ Configuratie Tool Specialist",
+"en": [
+"Integration/",
+"Configuration",
+"Tool",
+"Specialist"
+]
+},
+{
+"nl": "OTAP",
+"en": "DTAP",
+"word": true
+}
+]
+}

@@ -79,7 +79,7 @@ That combination of the classic way of project management with agile as a body o
 
 <!-- afbeelding ontbreekt: (lege src in origineel WordPress-bericht) -->
 
-![prince2taart.png](/images/blog/prince2taart.png)
+![prince2taart.png](/images/blog/prince2taart-en.png)
 
 **Reflection**
 

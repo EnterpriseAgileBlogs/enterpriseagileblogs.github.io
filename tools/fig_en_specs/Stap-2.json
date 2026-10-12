@@ -1,0 +1,94 @@
+{
+"src": "Stap-2.png",
+"items": [
+{
+"nl": "Ontwikkelingsfase 2: Virtuele product teams over functie afdelingen heen",
+"en": "Phase 2: Virtual product teams across functional departments"
+},
+{
+"nl": "Klant domein 1",
+"en": "Customer domain 1",
+"box": [
+89,
+56,
+74,
+8
+]
+},
+{
+"nl": "Klant domein 2",
+"en": "Customer domain 2",
+"box": [
+213,
+56,
+74,
+8
+]
+},
+{
+"nl": "Klant domein 3",
+"en": "Customer domain 3",
+"box": [
+338,
+56,
+74,
+8
+]
+},
+{
+"nl": "Functie of component afdeling",
+"en": [
+"Functional or",
+"component",
+"department"
+],
+"box": [
+[
+60,
+228,
+40,
+28
+],
+[
+127,
+228,
+40,
+28
+],
+[
+197,
+228,
+40,
+28
+],
+[
+262,
+227,
+46,
+30
+],
+[
+330,
+227,
+46,
+30
+],
+[
+398,
+227,
+46,
+30
+]
+],
+"size": 7.5,
+"pitch": 9.5,
+"pad": 1,
+"color": [
+255,
+255,
+255
+],
+"bold": true
+}
+]
+}

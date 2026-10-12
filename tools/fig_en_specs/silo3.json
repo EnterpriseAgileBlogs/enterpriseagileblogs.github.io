@@ -1,0 +1,80 @@
+{
+"src": "silo3.png",
+"items": [
+{
+"nl": "Verschillende soorten teams in Release Trains gebaseerd op waardestroom of shared service",
+"en": [
+"Different types of teams in Release Trains",
+"based on value stream or shared service"
+]
+},
+{
+"nl": "Release Train 4 (Generieke services)",
+"en": [
+"Release Train 4",
+"(Generic services)"
+]
+},
+{
+"nl": "(Productgroep 1)",
+"en": "(Product group 1)",
+"align": "l"
+},
+{
+"nl": "(Productgroep 2)",
+"en": "(Product group 2)",
+"align": "l"
+},
+{
+"nl": "(Productgroep 3)",
+"en": "(Product group 3)",
+"align": "l"
+},
+{
+"nl": "STAF",
+"en": "STAFF",
+"word": true
+},
+{
+"nl": "Staf 1 Staf 2 Staf 3",
+"en": "Staff 1 Staff 2 Staff 3"
+},
+{
+"nl": "Staf",
+"en": "Staff",
+"box": [
+[
+304,
+114,
+13,
+8
+],
+[
+303,
+194,
+13,
+8
+],
+[
+303,
+268,
+13,
+8
+],
+[
+303,
+341,
+13,
+8
+]
+],
+"size": 7,
+"pad": 1,
+"color": [
+235,
+235,
+235
+]
+}
+]
+}

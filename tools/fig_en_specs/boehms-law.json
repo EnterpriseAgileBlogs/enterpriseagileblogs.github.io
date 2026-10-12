@@ -1,0 +1,39 @@
+{
+"src": "boehms-law.jpg",
+"items": [
+{
+"nl": "Kosten",
+"en": "Cost",
+"rot": 270
+},
+{
+"nl": "FO",
+"en": "FD",
+"word": true,
+"bold": true
+},
+{
+"nl": "TO",
+"en": "TD",
+"word": true,
+"bold": true
+},
+{
+"nl": "Real",
+"en": "Build",
+"word": true,
+"bold": true
+},
+{
+"nl": "Gebruik",
+"en": "Operation",
+"word": true,
+"bold": true
+},
+{
+"nl": "Fase",
+"en": "Phase",
+"word": true
+}
+]
+}

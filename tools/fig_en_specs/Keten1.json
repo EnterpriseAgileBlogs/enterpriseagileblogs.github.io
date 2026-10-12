@@ -1,0 +1,72 @@
+{
+"src": "Keten1.png",
+"items": [
+{
+"nl": "Ministerie A",
+"en": "Ministry A"
+},
+{
+"nl": "Ministerie B",
+"en": "Ministry B"
+},
+{
+"nl": "Klassieke aansturing Shared Service Center",
+"en": [
+"Classic",
+"governance",
+"Shared Service",
+"Center"
+]
+},
+{
+"nl": "Klassieke aansturing semi overheid",
+"en": [
+"Classic",
+"governance",
+"semi-government"
+],
+"box": [
+476,
+94,
+80,
+38
+],
+"size": 11,
+"color": [
+255,
+255,
+255
+],
+"pitch": 12.5,
+"pad": 0
+},
+{
+"nl": "Klassieke aansturing IT",
+"en": [
+"Classic",
+"governance IT"
+]
+},
+{
+"nl": "Overheid of Semi overheid",
+"en": [
+"Government or",
+"semi-public"
+],
+"box": [
+568,
+135,
+112,
+45
+],
+"size": 19,
+"color": [
+255,
+255,
+255
+],
+"pitch": 21,
+"pad": 0
+}
+]
+}

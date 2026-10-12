@@ -1,0 +1,85 @@
+{
+"src": "fractal1.png",
+"items": [
+{
+"nl": "Kantelen van functionele naar product silo's",
+"en": "From functional to product silos",
+"box": [
+36,
+28,
+645,
+44
+],
+"size": 42,
+"flat": false,
+"align": "l"
+},
+{
+"nl": "Van Angelsaksisch",
+"en": "From Anglo-Saxon",
+"bold": true
+},
+{
+"nl": "Naar Rijnlands",
+"en": "To Rhineland",
+"bold": true
+},
+{
+"nl": "Klantwensen",
+"en": "Customer needs"
+},
+{
+"nl": "Eindklant",
+"en": "Customer",
+"word": true,
+"size": 12.5
+},
+{
+"nl": "De 'dommekrachten'",
+"en": "The 'brute force'"
+},
+{
+"nl": "The professionele kenniswerkers",
+"en": "The professional knowledge workers"
+},
+{
+"nl": "Faciliterend Management",
+"en": "Facilitating management",
+"rot": 270
+},
+{
+"nl": "Product georienteerde Team van teams",
+"en": [
+"Product-oriented",
+"team of teams"
+],
+"box": [
+[
+520,
+193,
+112,
+27
+],
+[
+520,
+242,
+112,
+27
+],
+[
+520,
+291,
+112,
+27
+]
+],
+"size": 11,
+"pitch": 13,
+"color": [
+0,
+0,
+0
+]
+}
+]
+}
