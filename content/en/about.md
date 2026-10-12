@@ -27,6 +27,8 @@ He has been blogging about his field since around 2010. His focus areas, which y
 
 ## Significant achievements
 
+Brian has experience at many large organizations, such as KPN, KLM, Transavia, Aegon, ING, the Dutch Tax Administration, the Chamber of Commerce (KvK) and MN Pension Services. A selection of his results:
+
 * Implementing the Scaled Agile Framework by (among other things) reorganizing an R&D department of 100 people from functional to domain-oriented departments.
 * The definition and establishment of a software development and maintenance factory based on the Rational Unified Process for a software division of 800 employees.
 * Implementing the Essential Unified Process for the IT department of 400 employees of a big telco, showing large cost savings and quality improvements.
@@ -38,6 +40,6 @@ He has been blogging about his field since around 2010. His focus areas, which y
 * Professional Scrum Master II, Professional Scrum Product Owner I, Professional Agile Leadership (PAL-I) and Scaled Professional Scrum (Nexus), Scrum.org
 * Earlier: Ivar Jacobson certified Master Trainer Iterative Essentials and Scrum Master Professional
 
-Previously he worked as agile trainer, coach, management coach, change manager and consultant on implementing Lean and Agile frameworks in large organizations. He speaks Dutch (native), English (fully professional), and some German and Spanish, and lives in Beuningen (Gelderland, the Netherlands).
+Previously he worked as agile trainer, coach, management coach, change manager and consultant on implementing Lean and Agile frameworks. He speaks Dutch (native), English (fully professional), and some German and Spanish, and lives in Beuningen (Gelderland, the Netherlands).
 
 Want to get in touch? Find Brian on [LinkedIn](https://www.linkedin.com/in/teunissen/).

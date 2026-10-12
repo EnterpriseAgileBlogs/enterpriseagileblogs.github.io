@@ -28,6 +28,8 @@ Sinds ongeveer 2010 schrijft hij blogs over zijn vak. Zijn aandachtsgebieden, di
 
 ## Belangrijkste resultaten
 
+Brian heeft ervaring bij veel grote organisaties, zoals KPN, KLM, Transavia, Aegon, ING, de Belastingdienst, de KvK en MN Pensioenservices. Een greep uit zijn resultaten:
+
 * Het invoeren van het Scaled Agile Framework door (onder andere) een R&D-afdeling van 100 mensen te reorganiseren van functionele naar domeingeoriënteerde afdelingen.
 * Het definiëren en opzetten van een softwareontwikkel- en onderhoudsstraat op basis van het Rational Unified Process voor een softwaredivisie van 800 medewerkers.
 * Het invoeren van het Essential Unified Process voor de IT-afdeling van 400 medewerkers van een grote telecomaanbieder, met aantoonbaar grote kostenbesparingen en kwaliteitsverbeteringen.
@@ -39,6 +41,6 @@ Sinds ongeveer 2010 schrijft hij blogs over zijn vak. Zijn aandachtsgebieden, di
 * Professional Scrum Master II, Professional Scrum Product Owner I, Professional Agile Leadership (PAL-I) en Scaled Professional Scrum (Nexus), Scrum.org
 * Eerder: Ivar Jacobson gecertificeerd Master Trainer Iterative Essentials en Scrum Master Professional
 
-Eerder werkte hij als agile trainer, coach, managementcoach, verandermanager en consultant bij het invoeren van Lean en Agile frameworks in grote organisaties. Hij spreekt Nederlands (moedertaal), Engels (volledig professioneel) en wat Duits en Spaans, en woont in Beuningen (Gelderland).
+Eerder werkte hij als agile trainer, coach, managementcoach, verandermanager en consultant bij het invoeren van Lean en Agile frameworks. Hij spreekt Nederlands (moedertaal), Engels (volledig professioneel) en wat Duits en Spaans, en woont in Beuningen (Gelderland).
 
 Contact? Je vindt Brian op [LinkedIn](https://www.linkedin.com/in/teunissen/).
