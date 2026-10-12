@@ -9,6 +9,8 @@ original_url: https://3pro.wordpress.com/2014/04/14/from-scrum-team-to-agile-org
 featured_image: "/images/blog/Structureshift3.png"
 ---
 
+![Structureshift3.png](/images/blog/Structureshift3.png)
+
 **Agile maturity step 3: Working in physical product teams , possibly supplemented by virtual Ops**
 
 **Introduction**  

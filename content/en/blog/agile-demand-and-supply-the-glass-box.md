@@ -9,6 +9,8 @@ original_url: https://3pro.wordpress.com/2011/11/01/agile-demand-and-supply-%e2%
 featured_image: "/images/blog/shake.jpg"
 ---
 
+![shake.jpg](/images/blog/shake.jpg)
+
 Agile production and maintenance of software is becoming more and more common. Many IT organizations nowadays are confronted with System Integrators offering to work agile and iterative.  Also the other way around, many IT organizations are demanding more and more from System Integrators to work iteratively and deliver working software every iteration.
 
 So what does this imply for the IT demand organization? What changes can IT Demand Project Managers expect?

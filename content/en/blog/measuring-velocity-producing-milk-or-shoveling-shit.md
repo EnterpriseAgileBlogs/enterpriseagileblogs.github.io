@@ -9,7 +9,7 @@ original_url: https://3pro.wordpress.com/2014/08/30/measuring-velocity-producing
 featured_image: "/images/blog/cow.jpg"
 ---
 
-![Milkmachine](/images/blog/milkmachine.jpg)
+![cow.jpg](/images/blog/cow.jpg)
 
 **Introduction**  
 No, I’m not from the countryside, but my forefathers are, and I have farmers in the family. I have often used the metaphor of milk production when explaining measuring productivity in an agile environment. I encountered many teams in my coaching career that were firefighting. This indicates a poor delivered quality, and / or a high degree of technical debt in the product. You could say that teams work hard, but is all the work delivering value to the business product? I think so. But do we want to measure whether all activities performed are of added value to the business product? Or do we want to measure if a team adds real business value to the business product? I argue for the latter. There are plenty of teams that include a variety of peripheral activities in their product backlog, and consider this to count for productivity. And no, I do not offend a team when I say: No, these things do NOT count for productivity. Teams unmistakably work hard and sometimes even on weekends to be the hero. The fireman.

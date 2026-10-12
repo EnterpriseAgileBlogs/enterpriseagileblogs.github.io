@@ -9,6 +9,8 @@ original_url: https://3pro.wordpress.com/2014/04/09/from-scrum-team-to-agile-org
 featured_image: "/images/blog/Structureshift1.png"
 ---
 
+![Structureshift1.png](/images/blog/Structureshift1.png)
+
 **Introduction**
 
 In reaction to the success of my Dutch blog series, I decided to translate this blog series to English.

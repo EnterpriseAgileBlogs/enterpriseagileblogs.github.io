@@ -9,7 +9,7 @@ original_url: https://3pro.wordpress.com/2016/06/24/first-anti-patterns-in-scali
 featured_image: "/images/blog/ANTI.png"
 ---
 
-![chain ant pattern](/images/blog/chain-ant-pattern.jpg)
+![ANTI.png](/images/blog/ANTI.png)
 
 In any implementation of a methodology or framework appliance of anti patterns always occur. It is a standard phenomenon when people project their current way of working onto the new way of working. Anti-Patterns are peoples own interpretations of a methodology or framework (usually after a first course), that actually are contradictory to the intention, and thus do not produce the desired outcome as intended by the framework.  
 Have a google on anti-patterns in Scrum, of which there are many. Some examples:  

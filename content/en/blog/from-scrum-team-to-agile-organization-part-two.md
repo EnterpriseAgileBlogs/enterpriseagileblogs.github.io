@@ -9,6 +9,8 @@ original_url: https://3pro.wordpress.com/2014/04/10/from-scrum-team-to-agile-org
 featured_image: "/images/blog/Structureshift2.png"
 ---
 
+![Structureshift2.png](/images/blog/Structureshift2.png)
+
 **Agile Maturity step 2: Working in virtual product teams, assembled from functional oriented departments**
 
 In my blog about ‘Agile maturity step 1: Working iteratively within (temporary) projects in a matrix organization’ I explained the advantages and disadvantages of the limited application of working iteratively within projects.

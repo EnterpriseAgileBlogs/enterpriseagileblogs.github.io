@@ -9,6 +9,8 @@ original_url: https://3pro.wordpress.com/2014/05/14/from-scrum-team-to-agile-org
 featured_image: "/images/blog/Structureshift4.png"
 ---
 
+![Structureshift4.png](/images/blog/Structureshift4.png)
+
 **Agile maturity step 4: DevOps within IT**  
 **Introduction**  
 In my blog about Agile maturity step 3: ‘Working in physical product teams, possibly supplemented by virtual Ops‘ I explained that it works more efficiently if you reorganize the IT to specific business domains or business products. Such a reorganization supports utilization and implementation of the Scaled Agile Framework optimally, and increase of productivity of 50 % is easily achievable, when implementation is done adequately.
