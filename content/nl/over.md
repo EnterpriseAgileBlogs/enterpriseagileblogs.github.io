@@ -9,13 +9,13 @@ date: 2009-02-20
 translated: true
 ---
 
-**Brian Teunissen** is enterprise agility consultant, trainer en coach. In zijn eigen woorden: *hij brengt digitalisering tot een succes door het bevorderen van wendbaarheid* in de hele organisatie, niet alleen in de IT-teams.
+**Brian Teunissen** is enterprise agile adviseur. Sinds 2021 is hij in vaste dienst bij de Nationale Politie als enterprise agile adviseur. In zijn eigen woorden: *hij brengt digitalisering tot een succes door het bevorderen van wendbaarheid* in de hele organisatie, niet alleen in de IT-teams.
 
-Brian is een allround, pragmatische en ervaren consultant die alle facetten van IT-ontwikkeling en -beheer heeft meegemaakt. Sinds 1999 is hij expert in (agile) procesverbetering. Hij werkt graag vanuit een concrete klantbehoefte, met de visie, missie en strategie van zijn klant voor ogen. Hij geeft graag realistisch advies, waarbij de business owner volledig betrokken moet zijn en ook volledig betrokken moet blijven.
+Brian is een allround, pragmatische en ervaren professional die alle facetten van IT-ontwikkeling en -beheer heeft meegemaakt. Sinds 1999 is hij expert in (agile) procesverbetering. Hij werkt graag vanuit een concrete klantbehoefte, met de visie, missie en strategie van zijn klant voor ogen. Hij geeft graag realistisch advies, waarbij de business owner volledig betrokken moet zijn en ook volledig betrokken moet blijven.
 
 ## Wat hij doet
 
-Brian werkte in twee periodes als zelfstandig consultant: van 2008 tot en met 2011 en van 2017 tot en met 2021. In die tweede periode werkte hij onder meer als Agile Enterprise Consultant en veranderconsultant "voor een wendbare organisatie". Bij Politie Nederland hielp hij onder andere Lean Portfolio Management in te voeren en de volwassenheid van agile werken in de IT-organisatie te vergroten.
+Brian werkte in twee periodes als zelfstandig consultant: van 2008 tot en met 2011 en van 2017 tot en met 2021. In die tweede periode werkte hij onder meer als Agile Enterprise Consultant en veranderconsultant "voor een wendbare organisatie". Bij de politie werkte hij onder andere mee aan het invoeren van Lean Portfolio Management en aan het vergroten van de volwassenheid van agile werken in de IT-organisatie.
 
 Sinds ongeveer 2010 schrijft hij blogs over zijn vak. Zijn aandachtsgebieden, die je ook terugziet in die blogs:
 
@@ -36,6 +36,6 @@ Sinds ongeveer 2010 schrijft hij blogs over zijn vak. Zijn aandachtsgebieden, di
 * Professional Scrum Master II, Professional Scrum Product Owner I, Professional Agile Leadership (PAL-I) en Scaled Professional Scrum (Nexus), Scrum.org
 * Eerder: Ivar Jacobson gecertificeerd Master Trainer Iterative Essentials en Scrum Master Professional
 
-Brian werkt als agile trainer, coach, managementcoach, verandermanager en consultant bij het invoeren van Lean en Agile frameworks in grote organisaties. Hij spreekt Nederlands (moedertaal), Engels (volledig professioneel) en wat Duits en Spaans, en woont in Beuningen (Gelderland).
+Eerder werkte hij als agile trainer, coach, managementcoach, verandermanager en consultant bij het invoeren van Lean en Agile frameworks in grote organisaties. Hij spreekt Nederlands (moedertaal), Engels (volledig professioneel) en wat Duits en Spaans, en woont in Beuningen (Gelderland).
 
 Contact? Je vindt Brian op [LinkedIn](https://www.linkedin.com/in/teunissen/).

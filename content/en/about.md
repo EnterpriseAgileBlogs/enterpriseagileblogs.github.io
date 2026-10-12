@@ -8,13 +8,13 @@ build:
 date: 2009-02-20
 ---
 
-**Brian Teunissen** is an enterprise agility consultant, trainer and coach. In his own words: *he makes digitalisation a success by fostering agility* across the whole organization, not just in the IT teams.
+**Brian Teunissen** is an enterprise agile advisor. Since 2021 he has been permanently employed by the Dutch National Police (Nationale Politie) as enterprise agile advisor. In his own words: *he makes digitalisation a success by fostering agility* across the whole organization, not just in the IT teams.
 
-Brian is an all round pragmatic and experienced consultant who has lived all the facets of IT development and maintenance. He has been an expert in (agile) process improvement since 1999. He likes to work from a specific customer need with the vision, mission and strategy of his customer in mind. He likes to give realistic advice, in which the business owner has to be fully involved, and has to stay fully involved.
+Brian is an all round pragmatic and experienced professional who has lived all the facets of IT development and maintenance. He has been an expert in (agile) process improvement since 1999. He likes to work from a specific customer need with the vision, mission and strategy of his customer in mind. He likes to give realistic advice, in which the business owner has to be fully involved, and has to stay fully involved.
 
 ## What he does
 
-Brian worked as an independent consultant in two periods: from 2008 through 2011 and from 2017 through 2021. In that second period he worked, among other things, as Agile Enterprise Consultant and change consultant "for an agile organization". At the Dutch National Police (Politie Nederland) he helped, among other things, to implement Lean Portfolio Management and increase the maturity of working agile in the IT organization.
+Brian worked as an independent consultant in two periods: from 2008 through 2011 and from 2017 through 2021. In that second period he worked, among other things, as Agile Enterprise Consultant and change consultant "for an agile organization". At the police he contributed, among other things, to implementing Lean Portfolio Management and increasing the maturity of working agile in the IT organization.
 
 He has been blogging about his field since around 2010. His focus areas, which you will also recognise in those blogs:
 
@@ -35,6 +35,6 @@ He has been blogging about his field since around 2010. His focus areas, which y
 * Professional Scrum Master II, Professional Scrum Product Owner I, Professional Agile Leadership (PAL-I) and Scaled Professional Scrum (Nexus), Scrum.org
 * Earlier: Ivar Jacobson certified Master Trainer Iterative Essentials and Scrum Master Professional
 
-Brian works as agile trainer, coach, management coach, change manager and consultant on implementing Lean and Agile frameworks in large organizations. He speaks Dutch (native), English (fully professional), and some German and Spanish, and lives in Beuningen (Gelderland, the Netherlands).
+Previously he worked as agile trainer, coach, management coach, change manager and consultant on implementing Lean and Agile frameworks in large organizations. He speaks Dutch (native), English (fully professional), and some German and Spanish, and lives in Beuningen (Gelderland, the Netherlands).
 
 Want to get in touch? Find Brian on [LinkedIn](https://www.linkedin.com/in/teunissen/).
