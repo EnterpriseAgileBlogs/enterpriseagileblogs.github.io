@@ -6,7 +6,7 @@ translationKey: van-scrum-team-naar-agile-organisatie-deel-4
 categories: ["Agile"]
 tags: []
 original_url: https://3pro.wordpress.com/2014/05/14/from-scrum-team-to-agile-organization-part-four/
-featured_image: /images/blog/step-4.jpg
+featured_image: "/images/blog/Structureshift4.png"
 ---
 
 **Agile maturity step 4: DevOps within IT**  

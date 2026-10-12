@@ -6,7 +6,7 @@ translationKey: van-scrum-team-naar-agile-organisatie-deel-3
 categories: ["Agile"]
 tags: ["domain departments", "intrinsic motivators", "physical product teams", "scaled agile framework"]
 original_url: https://3pro.wordpress.com/2014/04/14/from-scrum-team-to-agile-organization-part-three/
-featured_image: /images/blog/step-3.jpg
+featured_image: "/images/blog/Structureshift3.png"
 ---
 
 **Agile maturity step 3: Working in physical product teams , possibly supplemented by virtual Ops**

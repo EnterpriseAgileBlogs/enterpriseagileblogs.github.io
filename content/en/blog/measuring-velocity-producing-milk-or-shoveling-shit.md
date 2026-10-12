@@ -6,7 +6,7 @@ translationKey: meten-van-productiviteit-melkproductie-of-poepscheppen
 categories: ["Agile"]
 tags: ["Actual velocity", "Measuring velocity", "Planned velocity", "Sprint backlog", "Sprint goals", "Techical Debt", "Velocity"]
 original_url: https://3pro.wordpress.com/2014/08/30/measuring-velocity-producing-milk-or-shoveling-shit/
-featured_image: /images/blog/milkmachine.jpg
+featured_image: "/images/blog/cow.jpg"
 ---
 
 ![Milkmachine](/images/blog/milkmachine.jpg)

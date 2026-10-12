@@ -6,7 +6,7 @@ translationKey: van-scrum-team-naar-agile-organisatie-deel-2
 categories: ["Agile"]
 tags: ["Product teams", "virtual product teams"]
 original_url: https://3pro.wordpress.com/2014/04/10/from-scrum-team-to-agile-organization-part-two/
-featured_image: /images/blog/step-2.jpg
+featured_image: "/images/blog/Structureshift2.png"
 ---
 
 **Agile Maturity step 2: Working in virtual product teams, assembled from functional oriented departments**
