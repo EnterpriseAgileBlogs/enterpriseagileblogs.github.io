@@ -6,6 +6,7 @@ translationKey: van-scrum-team-naar-agile-organisatie-deel-1
 categories: ["Agile"]
 tags: ["Agile organization", "matrix organization", "Product teams", "Scaling Agile"]
 original_url: https://3pro.wordpress.com/2014/04/09/from-scrum-team-to-agile-organization-part-one/
+featured_image: /images/blog/step-1.jpg
 ---
 
 **Introduction**

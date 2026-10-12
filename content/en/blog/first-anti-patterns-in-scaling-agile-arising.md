@@ -6,6 +6,7 @@ translationKey: eerste-antipatronen-bij-scaling-agile
 categories: ["Agile"]
 tags: []
 original_url: https://3pro.wordpress.com/2016/06/24/first-anti-patterns-in-scaling-agile-arising/
+featured_image: /images/blog/chain-ant-pattern.jpg
 ---
 
 ![chain ant pattern](/images/blog/chain-ant-pattern.jpg)

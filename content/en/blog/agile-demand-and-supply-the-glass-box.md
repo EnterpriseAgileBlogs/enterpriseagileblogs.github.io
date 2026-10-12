@@ -6,6 +6,7 @@ translationKey: agile-opdrachtgeverschap-en-leverancierschap-vergen-partnership-
 categories: ["Agile"]
 tags: []
 original_url: https://3pro.wordpress.com/2011/11/01/agile-demand-and-supply-%e2%80%98the-glass-box%e2%80%99/
+featured_image: /images/blog/paradigm-shift.jpg
 ---
 
 Agile production and maintenance of software is becoming more and more common. Many IT organizations nowadays are confronted with System Integrators offering to work agile and iterative.  Also the other way around, many IT organizations are demanding more and more from System Integrators to work iteratively and deliver working software every iteration.
