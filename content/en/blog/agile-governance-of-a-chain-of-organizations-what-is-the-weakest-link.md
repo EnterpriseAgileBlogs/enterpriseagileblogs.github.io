@@ -45,7 +45,7 @@ Toyota decided back then to break with suppliers if they did not pursue the same
 
 Here I list some random examples of differences in governance:
 
-![verschillen-besturing.png](/images/blog/verschillen-besturing-en.png)
+[![verschillen-besturing.png](/images/blog/verschillen-besturing-en.png)](/images/blog/verschillen-besturing-en.png)
 
 These differences apply within an organization, but can just as well be applied in chain governance. However, this way of governing is far from being applied within most organizations, let alone in the chain.
 

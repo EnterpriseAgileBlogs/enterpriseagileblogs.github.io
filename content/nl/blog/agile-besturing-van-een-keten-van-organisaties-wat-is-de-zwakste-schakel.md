@@ -45,7 +45,7 @@ Toyota heeft destijds besloten om te breken met leveranciers als zij niet dezelf
 
 Ik zet bij deze willekeurig voorbeelden van verschillen van besturen op een rij:
 
-![verschillen-besturing.png](/images/blog/verschillen-besturing.png)
+[![verschillen-besturing.png](/images/blog/verschillen-besturing.png)](/images/blog/verschillen-besturing.png)
 
 Deze verschillen gelden binnen een organisatie, maar kunnen net zo goed worden toegepast in de keten aansturing. Echter wordt deze manier van besturen binnen de meeste organisaties nog lang niet toegepast, laat staan in de keten.
 
