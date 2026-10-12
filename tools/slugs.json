@@ -1,0 +1,25 @@
+{
+ "nl2en": {
+  "van-scrum-team-naar-agile-organisatie-deel-5": "from-scrum-team-to-agile-organization-part-five",
+  "prince2-agile-versus-scaling-agile": "prince2-agile-versus-scaling-agile",
+  "paradigma-verschuivingen-bij-scaling-agile": "paradigm-shifts-in-scaling-agile",
+  "van-trend-naar-gevestigde-orde-scaling-agile": "from-trend-to-established-order-scaling-agile",
+  "de-zichzelf-vervullende-voorspelling": "the-self-fulfilling-prophecy",
+  "van-scrum-team-naar-agile-organisatie-deel-6-epiloog": "from-scrum-team-to-agile-organization-part-six-epilogue",
+  "vergelijkbare-patronen-bij-backlog-refinement-en-structureren-van-teams": "similar-patterns-in-backlog-refinement-and-structuring-teams",
+  "fractale-structuurpatronen-bij-het-bedrijfsbreed-schalen-van-agile": "fractal-structure-patterns-when-scaling-agile-enterprise-wide",
+  "functiehuizen-slopen": "job-classification-systems-demolish-them",
+  "organisaties-willen-wendbaar-worden-maar-niet-veranderen": "organizations-want-to-become-agile-but-not-change",
+  "de-wendbare-organisatie-analoog-de-boston-matrix": "the-agile-organization-analogous-to-the-boston-matrix",
+  "cultuur-volgt-structuur": "culture-follows-structure",
+  "agile-besturing-van-een-keten-van-organisaties-wat-is-de-zwakste-schakel": "agile-governance-of-a-chain-of-organizations-what-is-the-weakest-link",
+  "6-oude-schoenen-om-zo-snel-mogelijk-weg-te-doen": "6-old-shoes-to-get-rid-of-as-soon-as-possible",
+  "starre-silos-en-afdelingen-weg-ermee": "rigid-silos-and-departments-away-with-them"
+ },
+ "en2nl": {
+  "agile-misunderstanding-number-one-you-can-not-plan-and-estimate-agile-projects": "agile-misverstand-nummer-een-je-kunt-agile-projecten-niet-plannen-en-schatten",
+  "agile-misconception-no-2-working-agile-takes-more-time-and-money": "agile-misvatting-nr-2-agile-werken-kost-meer-tijd-en-geld",
+  "agile-misconception-no-3-agile-scrum": "agile-misvatting-nr-3-agile-is-scrum",
+  "eat-your-own-dogfood": "eet-je-eigen-hondenvoer"
+ }
+}

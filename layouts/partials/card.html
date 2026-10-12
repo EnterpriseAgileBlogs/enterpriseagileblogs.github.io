@@ -1,0 +1,8 @@
+<article class="card">
+ <a class="thumb" href="{{ .RelPermalink }}">{{ with .Params.featured_image }}<img src="{{ . }}" alt="" loading="lazy">{{ else }}<span class="ph"></span>{{ end }}</a>
+ <div class="cbody">
+  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time>
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  <p>{{ .Summary | plainify | truncate 170 }}</p>
+ </div>
+</article>

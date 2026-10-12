@@ -1,0 +1,77 @@
+baseURL = "https://example.org/"
+title = "Brian Teunissen"
+defaultContentLanguage = "nl"
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+disableKinds = []
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true
+[markup.goldmark.renderer]
+  unsafe = true
+[permalinks]
+  [permalinks.page]
+    blog = "/blog/:slug/"
+  [permalinks.term]
+    categories = "/categories/:slug/"
+    tags = "/tags/:slug/"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+[params]
+  author = "Brian Teunissen"
+  linkedin = "https://www.linkedin.com/in/teunissen/"
+[outputs]
+  home = ["HTML","RSS"]
+  section = ["HTML","RSS"]
+[services.rss]
+  limit = 50
+[languages]
+  [languages.nl]
+    languageName = "Nederlands"
+    languageCode = "nl-NL"
+    weight = 1
+    contentDir = "content/nl"
+    [languages.nl.params]
+      tagline = "Over wendbare organisaties, scaling agile en enterprise agility"
+      description = "Blogs van Brian Teunissen over agile werken, scaling agile en de wendbare organisatie."
+    [[languages.nl.menus.main]]
+      name = "Home"
+      pageRef = "/"
+      weight = 1
+    [[languages.nl.menus.main]]
+      name = "Blog"
+      pageRef = "/blog"
+      weight = 2
+    [[languages.nl.menus.main]]
+      name = "Categorieën"
+      pageRef = "/categories"
+      weight = 3
+    [[languages.nl.menus.main]]
+      name = "Over Brian"
+      pageRef = "/over"
+      weight = 4
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-GB"
+    weight = 2
+    contentDir = "content/en"
+    [languages.en.params]
+      tagline = "On agile organizations, scaling agile and enterprise agility"
+      description = "Blogs by Brian Teunissen on agile ways of working, scaling agile and the agile organization."
+    [[languages.en.menus.main]]
+      name = "Home"
+      pageRef = "/"
+      weight = 1
+    [[languages.en.menus.main]]
+      name = "Blog"
+      pageRef = "/blog"
+      weight = 2
+    [[languages.en.menus.main]]
+      name = "Categories"
+      pageRef = "/categories"
+      weight = 3
+    [[languages.en.menus.main]]
+      name = "About Brian"
+      pageRef = "/about"
+      weight = 4

@@ -1,0 +1,7 @@
+<footer class="site-footer">
+ <div class="wrap fcols">
+  <div><strong>Brian Teunissen</strong><br>{{ .Site.Params.tagline }}</div>
+  <div class="flinks"><a href="{{ .Site.Params.linkedin }}" rel="me noopener" target="_blank">LinkedIn</a> · <a href="{{ "index.xml" | relLangURL }}">{{ i18n "rss" }}</a> · {{ partial "langswitch.html" . }}</div>
+ </div>
+ <div class="fbottom">© {{ now.Year }} Brian Teunissen</div>
+</footer>

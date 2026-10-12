@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article class="post wrap narrow">
+ <header class="phead">
+  <p class="meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time>{{ with .GetTerms "categories" }} · {{ range $i, $c := . }}{{ if $i }}, {{ end }}<a href="{{ $c.RelPermalink }}">{{ $c.LinkTitle }}</a>{{ end }}{{ end }}</p>
+  <h1>{{ .Title }}</h1>
+  <div class="tools">{{ range .Translations }}<a class="pill" href="{{ .RelPermalink }}" hreflang="{{ .Language.Lang }}">{{ i18n "otherlang" }}</a>{{ end }}<button class="pill" data-copy="{{ .Permalink }}" data-done="{{ i18n "copied" }} ✓">🔗 {{ i18n "copylink" }}</button></div>
+ </header>
+ <div class="content">{{ .Content }}</div>
+ {{ if .Params.translated }}<p class="tnote">{{ i18n "translatedNote" }}{{ range .Translations }} · <a href="{{ .RelPermalink }}" hreflang="{{ .Language.Lang }}">{{ if eq $.Site.Language.Lang "nl" }}origineel{{ else }}original{{ end }}</a>{{ end }}</p>{{ end }}
+ {{ with .GetTerms "tags" }}<p class="tags">{{ range . }}<a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>{{ end }}</p>{{ end }}
+ <nav class="prevnext">{{ with .PrevInSection }}<a href="{{ .RelPermalink }}">← {{ .Title }}</a>{{ end }}{{ with .NextInSection }}<a class="r" href="{{ .RelPermalink }}">{{ .Title }} →</a>{{ end }}</nav>
+</article>
+{{ end }}

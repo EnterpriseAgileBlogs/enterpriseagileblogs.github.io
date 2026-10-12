@@ -1,0 +1,7 @@
+{{ define "main" }}
+<section class="pagehead" style="background-image:url('{{ "images/photos/towers.jpg" | relURL }}')"><div class="wrap"><h1>{{ if eq .Kind "section" }}{{ i18n "allposts" }}{{ else }}{{ .Title }}{{ end }}</h1></div></section>
+<section class="wrap">
+ {{ if eq .Kind "section" }}<div class="tags filter">{{ range .Site.Taxonomies.categories.ByCount }}<a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <small>{{ .Count }}</small></a>{{ end }}</div>{{ end }}
+ <div class="grid">{{ range .Pages.ByDate.Reverse }}{{ partial "card.html" . }}{{ end }}</div>
+</section>
+{{ end }}

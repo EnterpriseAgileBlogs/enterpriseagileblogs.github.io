@@ -1,0 +1,7 @@
+<header class="site-header">
+ <div class="wrap hbar">
+  <a class="brand" href="{{ .Site.Home.RelPermalink }}"><span class="mark" aria-hidden="true">BT</span><span class="bt"><strong>Brian Teunissen</strong><small>{{ .Site.Params.tagline }}</small></span></a>
+  <span class="lang-m">{{ partial "langswitch.html" . }}</span><button class="menu-toggle" aria-label="Menu">☰</button>
+  <nav class="nav">{{ $cur := . }}{{ range .Site.Menus.main }}<a href="{{ .URL }}"{{ if or ($cur.IsMenuCurrent "main" .) ($cur.HasMenuCurrent "main" .) }} class="active"{{ end }}>{{ .Name }}</a>{{ end }}{{ partial "langswitch.html" . }}</nav>
+ </div>
+</header>

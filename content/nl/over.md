@@ -1,0 +1,41 @@
+---
+title: "Over Brian"
+layout: about
+url: /nl/over/
+translationKey: about
+build:
+  list: never
+date: 2009-02-20
+translated: true
+---
+
+**Brian Teunissen** is enterprise agility consultant, trainer en coach. In zijn eigen woorden: *hij brengt digitalisering tot een succes door het bevorderen van wendbaarheid* in de hele organisatie, niet alleen in de IT-teams.
+
+Brian is een allround, pragmatische en ervaren consultant die alle facetten van IT-ontwikkeling en -beheer heeft meegemaakt en zich sinds 1999 heeft gespecialiseerd in (agile) procesverbetering. Hij werkt graag vanuit een concrete klantbehoefte, met de visie, missie en strategie van zijn klant voor ogen. Hij geeft graag realistisch advies, waarbij de business owner volledig betrokken moet zijn en ook volledig betrokken moet blijven.
+
+## Wat hij doet
+
+Sinds 2017 werkt Brian als zelfstandig Agile Enterprise Consultant en veranderconsultant "voor een wendbare organisatie". Zijn meest recente werk is bij Politie Nederland, waar hij onder meer hielp Lean Portfolio Management in te voeren en de volwassenheid van agile werken in de IT-organisatie te vergroten.
+
+Zijn aandachtsgebieden, die je ook terugziet in zijn blogs:
+
+* Scaling agile en enterprise agility (SAFe, Nexus, LeSS en verder)
+* Organisatiestructuren: van functionele silo's naar waardestromen en productoriëntatie
+* Agile besturing, Lean Portfolio Management en agile leiderschap
+* Van projecten naar agile werken
+
+## Belangrijkste resultaten
+
+* Het invoeren van het Scaled Agile Framework door (onder andere) een R&D-afdeling van 100 mensen te reorganiseren van functionele naar domeingeoriënteerde afdelingen.
+* Het definiëren en opzetten van een softwareontwikkel- en onderhoudsstraat op basis van het Rational Unified Process voor een softwaredivisie van 800 medewerkers.
+* Het invoeren van het Essential Unified Process voor de IT-afdeling van 400 medewerkers van een grote telecomaanbieder, met aantoonbaar grote kostenbesparingen en kwaliteitsverbeteringen.
+
+## Certificeringen
+
+* Certified SAFe® 6 Practice Consultant (SPC), eerder SAFe® 5 Program Consultant en SPC 4.6; SAFe® Remote Trainer
+* Professional Scrum Master II, Professional Scrum Product Owner I, Professional Agile Leadership (PAL-I) en Scaled Professional Scrum (Nexus), Scrum.org
+* Eerder: Ivar Jacobson gecertificeerd Master Trainer Iterative Essentials en Scrum Master Professional
+
+Brian werkt als agile trainer, coach, managementcoach, verandermanager en consultant bij het invoeren van Lean en Agile frameworks in grote organisaties. Hij spreekt Nederlands (moedertaal), Engels (volledig professioneel) en wat Duits en Spaans, en woont in Beuningen (Gelderland).
+
+Contact? Je vindt Brian op [LinkedIn](https://www.linkedin.com/in/teunissen/).
