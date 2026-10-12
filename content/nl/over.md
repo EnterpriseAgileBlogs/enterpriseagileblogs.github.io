@@ -15,7 +15,7 @@ Brian is een allround, pragmatische en ervaren professional die alle facetten va
 
 ## Wat hij doet
 
-Brian werkte in twee periodes als zelfstandig consultant: van 2008 tot en met 2011 en van 2017 tot en met 2021. In die tweede periode werkte hij onder meer als Agile Enterprise Consultant en veranderconsultant "voor een wendbare organisatie".
+Brian werkte in twee periodes als zelfstandig consultant: van 2008 tot en met 2011 en van 2017 tot en met 2021. In die tweede periode werkte hij onder andere voor de Belastingdienst, MN Pensioenservices en de Kamer van Koophandel.
 
 Bij de Nationale Politie werkt hij onder meer aan Lean Portfolio Management en het vergroten van de volwassenheid van agile werken in de IT-organisatie.
 

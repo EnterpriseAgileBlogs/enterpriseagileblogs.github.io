@@ -14,7 +14,7 @@ Brian is an all round pragmatic and experienced professional who has lived all t
 
 ## What he does
 
-Brian worked as an independent consultant in two periods: from 2008 through 2011 and from 2017 through 2021. In that second period he worked, among other things, as Agile Enterprise Consultant and change consultant "for an agile organization".
+Brian worked as an independent consultant in two periods: from 2008 through 2011 and from 2017 through 2021. In that second period he worked for, among others, the Dutch Tax Administration, MN Pension Services and the Chamber of Commerce (KvK).
 
 At the Dutch National Police he works on, among other things, Lean Portfolio Management and increasing the maturity of working agile in the IT organization.
 
