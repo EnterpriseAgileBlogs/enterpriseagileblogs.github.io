@@ -6,6 +6,7 @@ translationKey: agile-misverstand-nummer-een-je-kunt-agile-projecten-niet-planne
 categories: ["Agile"]
 tags: []
 translated: true
+featured_image: "/images/illustrations/misvatting-1.png"
 ---
 
 **Weerstand tegen Agile**  

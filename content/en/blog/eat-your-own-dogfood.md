@@ -6,6 +6,7 @@ translationKey: eet-je-eigen-hondenvoer
 categories: ["Agile"]
 tags: []
 original_url: https://3pro.wordpress.com/2015/04/29/eat-your-own-dogfood/
+featured_image: "/images/illustrations/dogfood.png"
 ---
 
 Implement Agile in an Agile way!

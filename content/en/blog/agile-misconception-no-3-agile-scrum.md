@@ -6,6 +6,7 @@ translationKey: agile-misvatting-nr-3-agile-is-scrum
 categories: ["Agile"]
 tags: []
 original_url: https://3pro.wordpress.com/2011/10/06/agile-misconception-no-3-agile-scrum/
+featured_image: "/images/illustrations/misvatting-3.png"
 ---
 
 **My statement is: Scrum is the same thing as the Iterative development practice from Unified Process, but with different names.**

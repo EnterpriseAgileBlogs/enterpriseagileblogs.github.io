@@ -6,6 +6,7 @@ translationKey: eet-je-eigen-hondenvoer
 categories: ["Agile"]
 tags: []
 translated: true
+featured_image: "/images/illustrations/dogfood.png"
 ---
 
 Voer Agile op een Agile manier in!

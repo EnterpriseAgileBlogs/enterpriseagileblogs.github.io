@@ -6,6 +6,7 @@ translationKey: agile-misverstand-nummer-een-je-kunt-agile-projecten-niet-planne
 categories: ["Agile"]
 tags: []
 original_url: https://3pro.wordpress.com/2011/07/20/agile-misunderstanding-number-one-%e2%80%98you-can-not-plan-and-estimate-agile-projects%e2%80%99/
+featured_image: "/images/illustrations/misvatting-1.png"
 ---
 
 **Resistance against Agile**  

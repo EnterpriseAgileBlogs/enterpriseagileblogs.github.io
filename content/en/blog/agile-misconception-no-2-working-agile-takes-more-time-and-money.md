@@ -6,6 +6,7 @@ translationKey: agile-misvatting-nr-2-agile-werken-kost-meer-tijd-en-geld
 categories: ["Agile"]
 tags: ["Boehm", "Cost reduction", "Iterative", "Project Overrun", "Repetative work", "Requirements", "Risk-driven", "Standish"]
 original_url: https://3pro.wordpress.com/2011/10/05/agile-misconception-no-2-working-agile-takes-more-time-and-money/
+featured_image: "/images/illustrations/misvatting-2.png"
 ---
 
 **Because in Agile we focus on the customer requirements, and we have to work disciplined to properly execute the iterations or sprints, and we have to repeat things more often, the perception is that doing things the Agile way costs more time and money. This is a fairy tale.**

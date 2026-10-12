@@ -6,6 +6,7 @@ translationKey: agile-misvatting-nr-2-agile-werken-kost-meer-tijd-en-geld
 categories: ["Agile"]
 tags: ["Boehm", "Kostenreductie", "Iteratief", "Projectoverschrijding", "Repeterend werk", "Requirements", "Risicogedreven", "Standish"]
 translated: true
+featured_image: "/images/illustrations/misvatting-2.png"
 ---
 
 **Omdat we ons bij Agile richten op de klantrequirements, we gedisciplineerd moeten werken om de iteraties of sprints goed uit te voeren en we dingen vaker moeten herhalen, is de perceptie dat dingen op de Agile manier doen meer tijd en geld kost. Dit is een sprookje.**

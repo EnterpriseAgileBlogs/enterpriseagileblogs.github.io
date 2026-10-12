@@ -6,6 +6,7 @@ translationKey: agile-misvatting-nr-3-agile-is-scrum
 categories: ["Agile"]
 tags: []
 translated: true
+featured_image: "/images/illustrations/misvatting-3.png"
 ---
 
 **Mijn stelling is: Scrum is hetzelfde als de Iterative Development-practice uit het Unified Process, maar met andere namen.**
