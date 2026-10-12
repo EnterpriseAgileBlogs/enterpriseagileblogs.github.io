@@ -9,13 +9,15 @@ date: 2009-02-20
 translated: true
 ---
 
-**Brian Teunissen** is enterprise agile adviseur. Sinds 2021 is hij in vaste dienst bij de Nationale Politie als enterprise agile adviseur. In zijn eigen woorden: *hij brengt digitalisering tot een succes door het bevorderen van wendbaarheid* in de hele organisatie, niet alleen in de IT-teams.
+**Brian Teunissen** is sinds 2021 enterprise agile adviseur bij de Nationale Politie. In zijn eigen woorden: *hij brengt digitalisering tot een succes door het bevorderen van wendbaarheid* in de hele organisatie, niet alleen in de IT-teams.
 
 Brian is een allround, pragmatische en ervaren professional die alle facetten van IT-ontwikkeling en -beheer heeft meegemaakt. Sinds 1999 is hij expert in (agile) procesverbetering. Hij werkt graag vanuit een concrete klantbehoefte, met de visie, missie en strategie van zijn klant voor ogen. Hij geeft graag realistisch advies, waarbij de business owner volledig betrokken moet zijn en ook volledig betrokken moet blijven.
 
 ## Wat hij doet
 
-Brian werkte in twee periodes als zelfstandig consultant: van 2008 tot en met 2011 en van 2017 tot en met 2021. In die tweede periode werkte hij onder meer als Agile Enterprise Consultant en veranderconsultant "voor een wendbare organisatie". Bij de politie werkte hij onder andere mee aan het invoeren van Lean Portfolio Management en aan het vergroten van de volwassenheid van agile werken in de IT-organisatie.
+Brian werkte in twee periodes als zelfstandig consultant: van 2008 tot en met 2011 en van 2017 tot en met 2021. In die tweede periode werkte hij onder meer als Agile Enterprise Consultant en veranderconsultant "voor een wendbare organisatie".
+
+Bij de Nationale Politie werkt hij onder meer aan Lean Portfolio Management en het vergroten van de volwassenheid van agile werken in de IT-organisatie.
 
 Sinds ongeveer 2010 schrijft hij blogs over zijn vak. Zijn aandachtsgebieden, die je ook terugziet in die blogs:
 

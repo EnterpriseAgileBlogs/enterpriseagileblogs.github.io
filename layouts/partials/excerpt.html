@@ -1,0 +1,3 @@
+{{- $c := .Content | replaceRE `(?s)<h[1-6][^>]*>.*?</h[1-6]>` " " | replaceRE `(?s)<p>\s*<strong>[^<]{1,80}</strong>\s*</p>` " " | replaceRE `<strong>[^<]{1,80}</strong>\s*<br\s*/?>` " " | replaceRE `(?s)<figure.*?</figure>|<figcaption.*?</figcaption>` " " | replaceRE `(?s)<p>\s*<em>[^<]*</em>\s*</p>` " " | replaceRE `<[^>]+>` " " | htmlUnescape -}}
+{{- $c = $c | replaceRE `\s+` " " | replaceRE ` ([,.;:!?])` "$1" | replaceRE `^\s*(Intro|Introductie|Inleiding|Introduction|Conclusie|Conclusion)\b\s*` "" | strings.TrimSpace -}}
+{{- $c | truncate 170 -}}

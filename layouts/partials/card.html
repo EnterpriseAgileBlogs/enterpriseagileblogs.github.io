@@ -3,6 +3,6 @@
  <div class="cbody">
   <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time>
   <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-  <p>{{ .Summary | plainify | htmlUnescape | replaceRE `^\s*(Intro|Introductie|Inleiding|Introduction)\s+` "" | truncate 170 }}</p>
+  <p>{{ partial "excerpt.html" . }}</p>
  </div>
 </article>

@@ -8,7 +8,7 @@ tags: ["Boehm", "Cost reduction", "Iterative", "Project Overrun", "Repetative wo
 original_url: https://3pro.wordpress.com/2011/10/05/agile-misconception-no-2-working-agile-takes-more-time-and-money/
 ---
 
-**Because in Agile we focus on the customer requirements, and we****have to work disciplined to properly execute the iterations or sprints, and we have to repeat things more often, the perception is that doing things the Agile way costs more time and money. This is a fairy tale.**
+**Because in Agile we focus on the customer requirements, and we have to work disciplined to properly execute the iterations or sprints, and we have to repeat things more often, the perception is that doing things the Agile way costs more time and money. This is a fairy tale.**
 
 **There are two major arguments that say working agile will reduce cost and duration, and increase quality.**
 
