@@ -35,7 +35,7 @@ b.      After you have learned, run a vision workshop to determine, for the WHAT
 
 c.      Focus much more on developing your organization, instead of steering on results; shift that balance bit by bit
 
-d.      Give room for process improvement, product improvement and innovation, to be spent by teams themselves. Think of 20 to 25% of all capacity. A dairy farm also puts time into repairing the roof, innovating the milking machine, clearing away the waste, and so on. The feeling is then that you become 25% less productive, but the opposite is true. See also my blog: </en/blog/measuring-velocity-producing-milk-or-shoveling-shit/>
+d.      Give room for process improvement, product improvement and innovation, to be spent by teams themselves. Think of 20 to 25% of all capacity. A dairy farm also puts time into repairing the roof, innovating the milking machine, clearing away the waste, and so on. The feeling is then that you become 25% less productive, but the opposite is true. See also my blog: [/en/blog/measuring-velocity-producing-milk-or-shoveling-shit/](/en/blog/measuring-velocity-producing-milk-or-shoveling-shit/)
 
 2.      **Structure**
 
@@ -45,7 +45,7 @@ b.      Choose one of those value streams as a pilot, to initiate a team of team
 
 c.      If successful (depending on many more factors), adapt the structure of your organization to the division into value streams, so that you can also introduce a new form of governance (Lean budgeting)
 
-d.      That there is never one road to Rome, and that you can never organize an organization into unambiguous value streams, I explain in this blog: </en/blog/fractal-structure-patterns-when-scaling-agile-enterprise-wide/>
+d.      That there is never one road to Rome, and that you can never organize an organization into unambiguous value streams, I explain in this blog: [/en/blog/fractal-structure-patterns-when-scaling-agile-enterprise-wide/](/en/blog/fractal-structure-patterns-when-scaling-agile-enterprise-wide/)
 
 3.      **Governance**
 

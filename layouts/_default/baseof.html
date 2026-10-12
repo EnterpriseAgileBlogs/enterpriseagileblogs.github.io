@@ -21,7 +21,11 @@
 {{ partial "header.html" . }}
 <main id="main">{{ block "main" . }}{{ end }}</main>
 {{ partial "footer.html" . }}
-<script>document.addEventListener('click',function(e){var b=e.target.closest('[data-copy]');if(!b)return;var u=b.getAttribute('data-copy');(navigator.clipboard?navigator.clipboard.writeText(u):Promise.reject()).then(function(){b.textContent=b.getAttribute('data-done')}).catch(function(){prompt('',u)})});
+<script>document.addEventListener('click',function(e){var b=e.target.closest('[data-copy]');if(!b)return;var u=b.getAttribute('data-copy'),o=b.getAttribute('data-orig')||b.innerHTML;b.setAttribute('data-orig',o);
+function done(){b.textContent=b.getAttribute('data-done');b.classList.add('ok');clearTimeout(b._t);b._t=setTimeout(function(){b.innerHTML=o;b.classList.remove('ok')},2000)}
+var mobile=matchMedia('(max-width:860px),(pointer:coarse)').matches;
+if(mobile&&navigator.share){navigator.share({title:b.getAttribute('data-title')||document.title,url:u}).catch(function(){});return}
+if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(u).then(done,function(){prompt('',u)})}else{var t=document.createElement('textarea');t.value=u;document.body.appendChild(t);t.select();try{document.execCommand('copy');done()}catch(x){prompt('',u)}t.remove()}});
 document.addEventListener('click',function(e){var t=e.target.closest('.menu-toggle');if(t){document.body.classList.toggle('nav-open')}});</script>
 </body>
 </html>

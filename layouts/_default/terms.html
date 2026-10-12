@@ -1,4 +1,4 @@
 {{ define "main" }}
-<section class="pagehead" style="background-image:url('{{ "images/photos/curve.jpg" | relURL }}')"><div class="wrap"><h1>{{ i18n "categories" }}</h1></div></section>
+<section class="pagehead"><div class="wrap"><h1>{{ i18n "categories" }}</h1></div></section>
 <section class="wrap"><div class="tags big">{{ range .Data.Terms.Alphabetical }}<a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <small>{{ .Count }}</small></a>{{ end }}</div></section>
 {{ end }}

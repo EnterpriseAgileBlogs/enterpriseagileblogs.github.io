@@ -1,6 +1,7 @@
-{{ $p := . }}{{ $other := "en" }}{{ if eq .Site.Language.Lang "en" }}{{ $other = "nl" }}{{ end }}
+{{ $lang := .Site.Language.Lang }}{{ $other := cond (eq $lang "nl") "en" "nl" }}
 {{ $target := "" }}{{ range .Translations }}{{ if eq .Language.Lang $other }}{{ $target = .RelPermalink }}{{ end }}{{ end }}
-{{ if not $target }}{{ range .Sites }}{{ if eq .Language.Lang $other }}{{ $target = .Home.RelPermalink }}{{ end }}{{ end }}{{ end }}
+{{ $isArticle := .IsPage }}
+{{ if and (not $target) (not $isArticle) }}{{ range .Sites }}{{ if eq .Language.Lang $other }}{{ $target = .Home.RelPermalink }}{{ end }}{{ end }}{{ end }}
 <div class="lang" role="navigation" aria-label="Taal / Language">
- <span class="{{ if eq .Site.Language.Lang "nl" }}on{{ end }}">{{ if eq .Site.Language.Lang "nl" }}NL{{ else }}<a href="{{ $target }}" hreflang="nl" lang="nl" title="Nederlands">NL</a>{{ end }}</span><span class="sep">|</span><span class="{{ if eq .Site.Language.Lang "en" }}on{{ end }}">{{ if eq .Site.Language.Lang "en" }}EN{{ else }}<a href="{{ $target }}" hreflang="en" lang="en" title="English">EN</a>{{ end }}</span>
+{{ range slice "nl" "en" }}{{ if eq . $lang }}<span class="on" aria-current="true">{{ upper . }}</span>{{ else if $target }}<a href="{{ $target }}" hreflang="{{ . }}" lang="{{ . }}" title="{{ cond (eq . "en") "Read in English" "Lees in het Nederlands" }}">{{ upper . }}</a>{{ else }}<span class="off" title="{{ cond (eq $lang "nl") "Geen vertaling beschikbaar" "No translation available" }}">{{ upper . }}</span>{{ end }}{{ end }}
 </div>

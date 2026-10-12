@@ -3,7 +3,7 @@ title: "Starre silo’s en afdelingen: Weg ermee!"
 date: 2020-11-11T16:07:26+01:00
 slug: starre-silos-en-afdelingen-weg-ermee
 translationKey: starre-silos-en-afdelingen-weg-ermee
-categories: [Agile besturing, Agile HR, Agile leiderschap, Agile organisatie structuur, Agile transities, Angelsaksisch naar Rijnlands, Enterprise agility, Geen categorie, NeXuS, Product oriëntatie, Projecten versus agile werken, Scaling agile, Waardestromen, Wendbaarheid]
+categories: [Agile besturing, Agile HR, Agile leiderschap, Agile organisatie structuur, Agile transities, Angelsaksisch naar Rijnlands, Enterprise agility, NeXuS, Product oriëntatie, Projecten versus agile werken, Scaling agile, Waardestromen, Wendbaarheid]
 tags: [Netwerkorganisaties, Organigram, Wendbaarheid, Wendbare organisaties]
 original_url: https://newgility.eu/2020/11/11/starre-silos-en-afdelingen-weg-ermee/
 featured_image: /images/blog/OrgNext.jpg

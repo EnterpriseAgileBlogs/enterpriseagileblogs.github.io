@@ -29,7 +29,7 @@ Companies and products are becoming more and more ‘IT driven’. And to name a
 
 Organizations will have to become increasingly agile if they want to respond to all the changes. Not only in terms of processes and ways of working, but the entire organization will have to be subject to constant change and improvement.
 
-(Continuous organization improvement, see also my blog ‘From Scrum team to Agile Organization part 5’: </en/blog/from-scrum-team-to-agile-organization-part-five/>
+(Continuous organization improvement, see also my blog ‘From Scrum team to Agile Organization part 5’: [/en/blog/from-scrum-team-to-agile-organization-part-five/](/en/blog/from-scrum-team-to-agile-organization-part-five/)
 
 **The frameworks**
 

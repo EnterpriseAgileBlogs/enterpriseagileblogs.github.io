@@ -1,9 +1,9 @@
 {{ define "main" }}
-<section class="pagehead" style="background-image:url('{{ "images/photos/canal.jpg" | relURL }}')"><div class="wrap"><h1>{{ .Title }}</h1></div></section>
+<section class="pagehead"><div class="wrap"><h1>{{ .Title }}</h1></div></section>
 <article class="wrap about">
  <img class="portrait" src="{{ "images/photos/brian-portrait.jpg" | relURL }}" alt="Brian Teunissen">
  <div class="content">{{ .Content }}
  <p><a class="btn" href="{{ .Site.Params.linkedin }}" rel="me noopener" target="_blank">LinkedIn: Brian Teunissen</a></p>
- <div class="tools">{{ range .Translations }}<a class="pill" href="{{ .RelPermalink }}">{{ i18n "otherlang" }}</a>{{ end }}<button class="pill" data-copy="{{ .Permalink }}" data-done="{{ i18n "copied" }} ✓">🔗 {{ i18n "copylink" }}</button></div></div>
+ <div class="tools">{{ range .Translations }}<a class="pill" href="{{ .RelPermalink }}">{{ i18n "otherlang" }}</a>{{ end }}<button class="pill" data-copy="{{ .Permalink }}" data-title="{{ .Title }}" data-done="{{ i18n "copied" }} ✓">🔗 {{ i18n "copylink" }}</button></div></div>
 </article>
 {{ end }}

@@ -3,7 +3,7 @@ title: "Rigid silos and departments: Away with them!"
 date: 2020-11-11T16:07:26+01:00
 slug: rigid-silos-and-departments-away-with-them
 translationKey: starre-silos-en-afdelingen-weg-ermee
-categories: ["Agile governance", "Agile HR", "Agile leadership", "Agile organization structure", "Agile transitions", "Anglo-Saxon to Rhineland", "Enterprise agility", "Uncategorized", "Nexus", "Product orientation", "Projects versus agile working", "Scaling agile", "Value streams", "Business agility"]
+categories: ["Agile governance", "Agile HR", "Agile leadership", "Agile organization structure", "Agile transitions", "Anglo-Saxon to Rhineland", "Enterprise agility", "Nexus", "Product orientation", "Projects versus agile working", "Scaling agile", "Value streams", "Business agility"]
 tags: ["Network organizations", "Org chart", "Business agility", "Agile organizations"]
 translated: true
 featured_image: /images/blog/OrgNext.jpg

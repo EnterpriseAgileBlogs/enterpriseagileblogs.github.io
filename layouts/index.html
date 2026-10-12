@@ -1,6 +1,7 @@
 {{ define "main" }}
 <section class="hero" style="background-image:url('{{ "images/photos/hero-brian.jpg" | relURL }}')">
  <div class="wrap"><div class="herotext"><h1>{{ i18n "hero" }}</h1><p>{{ i18n "herosub" }}</p><a class="btn" href="{{ "blog/" | relLangURL }}">{{ i18n "allposts" }}</a> <a class="btn ghost" href="{{ if eq .Site.Language.Lang "nl" }}{{ "over/" | relLangURL }}{{ else }}{{ "about/" | relLangURL }}{{ end }}">{{ i18n "about" }}</a></div></div>
+ <img class="hero-img" src="{{ "images/photos/hero-brian.jpg" | relURL }}" alt="Brian Teunissen">
 </section>
 <section class="wrap">
  <h2 class="sect">{{ i18n "latest" }}</h2>
@@ -8,5 +9,5 @@
  <p class="center"><a class="btn" href="{{ "blog/" | relLangURL }}">{{ i18n "allposts" }} →</a></p>
 </section>
 <section class="band" style="background-image:url('{{ "images/photos/architecture.jpg" | relURL }}')"><div class="wrap"><div class="bandtext">
- <h2>{{ i18n "categories" }}</h2><div class="tags">{{ range first 14 .Site.Taxonomies.categories.ByCount }}<a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <small>{{ .Count }}</small></a>{{ end }}</div></div></div></section>
+ <h2>{{ i18n "categories" }}</h2><div class="tags">{{ range first 8 .Site.Taxonomies.categories.ByCount }}<a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <small>{{ .Count }}</small></a>{{ end }}<a class="all" href="{{ "categories/" | relLangURL }}">{{ i18n "allcats" }} →</a></div></div></div></section>
 {{ end }}

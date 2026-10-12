@@ -29,7 +29,7 @@ Bedrijven en producten worden steeds meer ‘IT driven’. En om nog maar zo een
 
 Organisaties zullen steeds wendbaarder dienen te worden als ze op alle veranderingen in willen spelen. Niet alleen qua processen en werkwijzen, maar de gehele organisatie zal aan constante verandering en verbetering onderhavig dienen te zijn.
 
-(Continuous organization improvement, zie ook mijn blog ‘van Scrum team tot Agile Organisatie deel 5: </nl/blog/van-scrum-team-naar-agile-organisatie-deel-5/>
+(Continuous organization improvement, zie ook mijn blog ‘van Scrum team tot Agile Organisatie deel 5: [/nl/blog/van-scrum-team-naar-agile-organisatie-deel-5/](/nl/blog/van-scrum-team-naar-agile-organisatie-deel-5/)
 
 **De frameworks**
 

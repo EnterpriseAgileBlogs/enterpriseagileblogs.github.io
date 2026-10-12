@@ -37,7 +37,7 @@ This is how many existing organizations still look. Over time all specialization
 
 The Scaled Agile Framework (SAFe) lays Agile Release Trains (ARTs, or self-organizing teams of teams) over the value streams (here referred to as product groups).
 
-I will leave the Release Train mentioned here as the 4<sup>th</sup> out of consideration for now. How you should interpret it I have already explained extensively in this blog: ‘Fractal structure patterns when scaling agile enterprise-wide’: </en/blog/fractal-structure-patterns-when-scaling-agile-enterprise-wide/>
+I will leave the Release Train mentioned here as the 4<sup>th</sup> out of consideration for now. How you should interpret it I have already explained extensively in this blog: ‘Fractal structure patterns when scaling agile enterprise-wide’: [/en/blog/fractal-structure-patterns-when-scaling-agile-enterprise-wide/](/en/blog/fractal-structure-patterns-when-scaling-agile-enterprise-wide/)
 
 ## Different kinds of teams
 
@@ -62,7 +62,7 @@ On this point I do not agree with the authors of SAFe 5.0. It should not stop he
 
 Only then can you become a truly agile organization, in my opinion. For me, agility is therefore based above all on an agile structure, as many of my blogs show. Of course you also need an agile IT landscape (loosely coupled), and an agile strategy. But an agile structure follows from an agile strategy, and, as the title says: Culture follows structure.
 
-For a good visualization of the agile structure, see also my blog: ‘The agile organization analogous to the Boston Matrix’: </en/blog/the-agile-organization-analogous-to-the-boston-matrix/>
+For a good visualization of the agile structure, see also my blog: ‘The agile organization analogous to the Boston Matrix’: [/en/blog/the-agile-organization-analogous-to-the-boston-matrix/](/en/blog/the-agile-organization-analogous-to-the-boston-matrix/)
 
 So: away with that rigid ERP system that does not allow you to easily move employees, or set up departments, or close down departments. And the request for advice to the works council and FZ should be: ‘As an organization we want to become agile, and to that end drastically simplify changing the organization structure and make all requests for advice needed for this redundant in the future’.
 

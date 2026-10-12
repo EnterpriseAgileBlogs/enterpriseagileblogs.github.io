@@ -35,7 +35,7 @@ b.      Nadat je hebt geleerd, voer een visie workshop uit om te bepalen v
 
 c.      Richt je veel meer op het ontwikkelen van je organisatie, in plaats van te sturen op resultaten, verschuif stukje bij beetje die balans
 
-d.      Geef ruimte voor procesverbetering, productverbetering en innovatie, te besteden door teams zelf. Denk aan 20 tot 25% van alle capaciteit. Ook een Melkhouderij steekt tijd in repareren van het dak, innoveren van de melkmachine, opruimen van het afval, enzovoort. Het gevoel is dan dat je 25% minder productief wordt, maar het tegendeel is juist waar. Zie ook mijn blog: </nl/blog/meten-van-productiviteit-melkproductie-of-poepscheppen/>
+d.      Geef ruimte voor procesverbetering, productverbetering en innovatie, te besteden door teams zelf. Denk aan 20 tot 25% van alle capaciteit. Ook een Melkhouderij steekt tijd in repareren van het dak, innoveren van de melkmachine, opruimen van het afval, enzovoort. Het gevoel is dan dat je 25% minder productief wordt, maar het tegendeel is juist waar. Zie ook mijn blog: [/nl/blog/meten-van-productiviteit-melkproductie-of-poepscheppen/](/nl/blog/meten-van-productiviteit-melkproductie-of-poepscheppen/)
 
 2.      **Structuur**
 
@@ -45,7 +45,7 @@ b.      Kies één van die waardestromen als pilot, om een team van teams 
 
 c.      Bij succes (afhankelijk van veel meer factoren) pas de structuur van je organisatie aan op de indeling in waardestromen, zodat je ook een nieuwe vorm van besturen kunt introduceren (Lean budgetting)
 
-d.      Dat er nooit één weg naar Rome is, en dat je een organisatie nooit in eenduidige waardestromen kunt organiseren vertel ik iets over in deze blog: </nl/blog/fractale-structuurpatronen-bij-het-bedrijfsbreed-schalen-van-agile/>
+d.      Dat er nooit één weg naar Rome is, en dat je een organisatie nooit in eenduidige waardestromen kunt organiseren vertel ik iets over in deze blog: [/nl/blog/fractale-structuurpatronen-bij-het-bedrijfsbreed-schalen-van-agile/](/nl/blog/fractale-structuurpatronen-bij-het-bedrijfsbreed-schalen-van-agile/)
 
 3.      **Besturing**
 

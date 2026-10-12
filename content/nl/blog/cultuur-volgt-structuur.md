@@ -37,7 +37,7 @@ Zoals bovenstaand zien vele bestaande organisaties er nog steeds uit. Alle speci
 
 Scaled Agile Framework (SAFe) legt over de waardestromen (hier aangeduid als productgroepen) Agile Release Trains (ART’s of zelf organiserende teams van teams).
 
-Ik laat de hier als 4<sup>e</sup> genoemde Release Train even buiten beschouwing. Hoe je deze moet interpreteren heb ik al uitgebreid uitgelegd in deze blog: ‘Fractale structuur patronen bij het bedrijfsbreed schalen van agile’: </nl/blog/fractale-structuurpatronen-bij-het-bedrijfsbreed-schalen-van-agile/>
+Ik laat de hier als 4<sup>e</sup> genoemde Release Train even buiten beschouwing. Hoe je deze moet interpreteren heb ik al uitgebreid uitgelegd in deze blog: ‘Fractale structuur patronen bij het bedrijfsbreed schalen van agile’: [/nl/blog/fractale-structuurpatronen-bij-het-bedrijfsbreed-schalen-van-agile/](/nl/blog/fractale-structuurpatronen-bij-het-bedrijfsbreed-schalen-van-agile/)
 
 ## Verschillende soorten teams
 
@@ -62,7 +62,7 @@ Op dit punt ben ik het niet met de samenstellers van SAFe 5.0 eens. Hier moet he
 
 Pas dan kun je een echte wendbare organisatie worden naar mijn idee. Voor mij is wendbaarheid dan ook vooral gestoeld op een wendbare structuur, zoals uit veel van mijn blogs blijkt. Natuurlijk moet je ook een wendbaar IT landschap hebben (loosely coupled), en een wendbare strategie. Maar uit een wendbare strategie volgt een wendbare structuur, en, zoals de titel al zegt: Cultuur volgt structuur.
 
-Zie voor een goede visualisatie van de wendbare structuur ook mijn blog: ‘De wendbare organisatie analoog de Boston Matrix’: </nl/blog/de-wendbare-organisatie-analoog-de-boston-matrix/>
+Zie voor een goede visualisatie van de wendbare structuur ook mijn blog: ‘De wendbare organisatie analoog de Boston Matrix’: [/nl/blog/de-wendbare-organisatie-analoog-de-boston-matrix/](/nl/blog/de-wendbare-organisatie-analoog-de-boston-matrix/)
 
 Dus: het is weg! met dat starre ERP systeem dat niet toelaat dat je makkelijk medewerkers verplaatst, of afdelingen opricht, of afdelingen beëindigd. En de adviesaanvraag aan de ondernemingsraad en FZ zou moeten zijn: ‘Wij willen als organisatie wendbaar worden en daartoe het wijzigen van de organisatie structuur drastisch versimpelen en alle daartoe benodigde advies aanvragen in de toekomst overbodig maken’.
 

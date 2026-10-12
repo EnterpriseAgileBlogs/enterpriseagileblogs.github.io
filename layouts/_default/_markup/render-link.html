@@ -1,0 +1,6 @@
+{{- $dest := .Destination -}}{{- $text := .Text | string -}}{{- $title := "" -}}
+{{- if and (hasPrefix $dest "/") (or (eq (plainify $text) $dest) (eq (plainify $text) "")) -}}
+{{- range .Page.Sites -}}{{- range .RegularPages -}}{{- if eq .RelPermalink $dest -}}{{- $title = .Title -}}{{- end -}}{{- end -}}{{- end -}}
+{{- end -}}
+<a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if hasPrefix $dest "http" }} rel="noopener"{{ end }}>{{ if $title }}{{ $title }}{{ else }}{{ $text | safeHTML }}{{ end }}</a>
+{{- /**/ -}}
