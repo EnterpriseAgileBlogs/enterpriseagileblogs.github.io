@@ -33,6 +33,7 @@ Sinds ongeveer 2010 schrijft hij blogs over zijn vak. Zijn aandachtsgebieden, di
 ## Certificeringen
 
 * Certified SAFe® 6 Practice Consultant (SPC), eerder SAFe® 5 Program Consultant en SPC 4.6; SAFe® Remote Trainer
+* **Agile Master, Agile Consortium (sinds 2015)**
 * Professional Scrum Master II, Professional Scrum Product Owner I, Professional Agile Leadership (PAL-I) en Scaled Professional Scrum (Nexus), Scrum.org
 * Eerder: Ivar Jacobson gecertificeerd Master Trainer Iterative Essentials en Scrum Master Professional
 
